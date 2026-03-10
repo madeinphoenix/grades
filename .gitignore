@@ -1,0 +1,12 @@
+# Temp / OS files
+~$*
+.DS_Store
+
+# Build scripts (not needed on the hosted site)
+build_grades_html.py
+add_dummy_data.py
+delete_dummy_data.py
+
+# Raw export files
+*.xlsx
+*.md
