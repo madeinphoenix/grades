@@ -879,7 +879,8 @@
               "weightedPct": 1.0,
               "letterGrade": "A"
             }
-          ]
+          ],
+          "fetchedAt": "2026-03-10T09:00"
         }
       },
       "shortNames": {
@@ -1767,7 +1768,8 @@
               "weightedPct": 0.77693,
               "letterGrade": "C"
             }
-          ]
+          ],
+          "fetchedAt": "2026-03-10T09:00"
         }
       },
       "shortNames": {
