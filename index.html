@@ -145,7 +145,7 @@
   .asgn-row:last-child { border-bottom: none; }
   .asgn-left  { display: flex; align-items: center; gap: 6px; flex: 1; min-width: 0; }
   .asgn-name  { font-weight: 500; color: #334155; word-break: break-word; }
-  .asgn-right { display: grid; grid-template-columns: 18px 56px 46px; column-gap: 8px; align-items: center; flex-shrink: 0; }
+  .asgn-right { display: grid; grid-template-columns: 18px 32px 56px 46px; column-gap: 8px; align-items: center; flex-shrink: 0; }
   .asgn-note-icon { position: relative; display: flex; align-items: center; justify-content: center; }
   .asgn-note-icon svg { width: 13px; height: 13px; color: #94a3b8; flex-shrink: 0; }
   .asgn-note-icon[data-note]:hover svg { color: #475569; }
@@ -164,6 +164,7 @@
   }
   .asgn-note-icon[data-note]:hover::after,
   .asgn-note-icon[data-note]:hover::before { opacity: 1; }
+  .asgn-due { color: #94a3b8; font-size: 0.71rem; white-space: nowrap; text-align: right; }
   .asgn-pts { color: #94a3b8; font-size: 0.71rem; text-align: right; }
   .asgn-pct { font-weight: 600; font-size: 0.78rem; text-align: right; }
 
@@ -539,12 +540,14 @@ function renderDashboard() {
           const noteIcon = asgn.note
             ? `<svg viewBox="0 0 16 16" fill="currentColor"><path d="M14 1H2a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h2.5v3l3.5-3H14a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1z"/></svg>`
             : '';
+          const fmtDue = asgn.due ? (() => { const [m,d] = asgn.due.split('/'); return `${+m}/${+d}`; })() : '';
           aRow.innerHTML = `
             <div class="asgn-left">
               <span class="asgn-name">${asgn.name}</span>
             </div>
             <div class="asgn-right">
               <span class="asgn-note-icon"${noteAttr}>${noteIcon}</span>
+              <span class="asgn-due">${fmtDue}</span>
               ${hasScore
                 ? `<span class="asgn-pts">${asgn.earned}/${asgn.possible}</span>
                    <span class="asgn-pct" style="color:${ac.text}">${pctStr(aPct)}</span>`
