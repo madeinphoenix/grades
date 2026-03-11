@@ -955,7 +955,8 @@
                       "name": "Preschool Challenge #2 Movement",
                       "earned": null,
                       "possible": 100.0,
-                      "due": "02/21/2026"
+                      "due": "02/21/2026",
+                      "note": "Will be scored after student teaches it to the TOYBOX Preschoolers"
                     },
                     {
                       "name": "All About Me Storybook",
@@ -987,7 +988,8 @@
                       "name": "Chapter 8 Vocab",
                       "earned": 10.0,
                       "possible": 10.0,
-                      "due": "03/14/2026"
+                      "due": "03/14/2026",
+                      "note": "Went over as whole class & extended time given to complete"
                     },
                     {
                       "name": "Reading Observation",
@@ -1117,7 +1119,8 @@
                       "name": "mid unit assessment",
                       "earned": 86.1,
                       "possible": 100.0,
-                      "due": "02/03/2026"
+                      "due": "02/03/2026",
+                      "note": "Score increased from original 70 after improved assessment"
                     }
                   ]
                 },
@@ -1753,7 +1756,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-10T17:52"
+          "fetchedAt": "2026-03-10T18:19"
         }
       },
       "shortNames": {
@@ -3505,7 +3508,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-10T17:52"
+          "fetchedAt": "2026-03-10T18:19"
         }
       },
       "shortNames": {
