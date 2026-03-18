@@ -8200,6 +8200,12 @@
                   "possible": 300.0,
                   "assignments": [
                     {
+                      "name": "Analyzing Hawksbeard data",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "03/24/2026"
+                    },
+                    {
                       "name": "Unit 3 assessment",
                       "earned": 82.5,
                       "possible": 100,
@@ -8232,6 +8238,36 @@
                   "earned": 99.8,
                   "possible": 120.0,
                   "assignments": [
+                    {
+                      "name": "Common garden experiment",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/24/2026"
+                    },
+                    {
+                      "name": "Hawksbeard seed dispersal lab",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/24/2026"
+                    },
+                    {
+                      "name": "Case studies chart",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/03/2026"
+                    },
+                    {
+                      "name": "Planet Earth cities video",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/03/2026"
+                    },
+                    {
+                      "name": "Urbanization model",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/03/2026"
+                    },
                     {
                       "name": "Urbanization quiz",
                       "earned": 8.0,
@@ -8863,7 +8899,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-18T09:00"
+          "fetchedAt": "2026-03-18T16:30"
         }
       },
       "shortNames": {
@@ -17519,7 +17555,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-18T09:00"
+          "fetchedAt": "2026-03-18T16:30"
         }
       },
       "shortNames": {
