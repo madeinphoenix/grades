@@ -9158,8 +9158,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 99.8,
-                  "possible": 120.0,
+                  "earned": 119.8,
+                  "possible": 140.0,
                   "assignments": [
                     {
                       "name": "Common garden experiment",
@@ -9175,7 +9175,7 @@
                     },
                     {
                       "name": "Case studies chart",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "03/03/2026"
                     },
@@ -9187,7 +9187,7 @@
                     },
                     {
                       "name": "Urbanization model",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "03/03/2026"
                     },
@@ -9293,7 +9293,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8413,
+              "weightedPct": 0.85198,
               "letterGrade": "B"
             },
             {
@@ -9822,7 +9822,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-19T09:00"
+          "fetchedAt": "2026-03-19T16:30"
         }
       },
       "shortNames": {
@@ -19341,7 +19341,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-19T09:00"
+          "fetchedAt": "2026-03-19T16:30"
         }
       },
       "shortNames": {
