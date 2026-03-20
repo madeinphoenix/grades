@@ -10046,12 +10046,6 @@
                   "possible": 300.0,
                   "assignments": [
                     {
-                      "name": "Analyzing Hawksbeard data",
-                      "earned": null,
-                      "possible": 100,
-                      "due": "03/24/2026"
-                    },
-                    {
                       "name": "Unit 3 assessment",
                       "earned": 82.5,
                       "possible": 100,
@@ -10084,6 +10078,12 @@
                   "earned": 119.8,
                   "possible": 140.0,
                   "assignments": [
+                    {
+                      "name": "Analyzing Hawksbeard data",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/24/2026"
+                    },
                     {
                       "name": "Common garden experiment",
                       "earned": null,
@@ -10745,7 +10745,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-20T09:00"
+          "fetchedAt": "2026-03-20T16:30"
         }
       },
       "shortNames": {
@@ -21127,7 +21127,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-20T09:00"
+          "fetchedAt": "2026-03-20T16:30"
         }
       },
       "shortNames": {
