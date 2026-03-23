@@ -12999,6 +12999,12 @@
                   "possible": 700.0,
                   "assignments": [
                     {
+                      "name": " Q4 Pre-test CUA",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "03/25/2026"
+                    },
+                    {
                       "name": "3.2 CUA Final",
                       "earned": 98.0,
                       "possible": 100,
@@ -13514,7 +13520,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-23T09:00"
+          "fetchedAt": "2026-03-23T14:53"
         }
       },
       "shortNames": {
@@ -26485,7 +26491,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-23T09:00"
+          "fetchedAt": "2026-03-23T14:53"
         }
       },
       "shortNames": {
