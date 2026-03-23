@@ -12649,7 +12649,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.88889,
+              "weightedPct": 0.8888,
               "letterGrade": "B"
             },
             {
@@ -12985,7 +12985,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.85198,
+              "weightedPct": 0.8412,
               "letterGrade": "B"
             },
             {
@@ -13094,7 +13094,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.82844,
+              "weightedPct": 0.8355,
               "letterGrade": "B"
             },
             {
@@ -13222,7 +13222,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.82901,
+              "weightedPct": 0.8166,
               "letterGrade": "B"
             },
             {
@@ -13520,7 +13520,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-23T14:53"
+          "fetchedAt": "2026-03-23T15:01"
         }
       },
       "shortNames": {
@@ -25835,7 +25835,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.86185,
+              "weightedPct": 0.8618,
               "letterGrade": "B"
             },
             {
@@ -25956,8 +25956,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.72345,
-              "letterGrade": "C"
+              "weightedPct": 0.993,
+              "letterGrade": "A"
             },
             {
               "name": "HONORS ENGLISH LANG ARTS 8",
@@ -26059,7 +26059,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.81522,
+              "weightedPct": 0.8152,
               "letterGrade": "B"
             },
             {
@@ -26233,7 +26233,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.83505,
+              "weightedPct": 0.835,
               "letterGrade": "B"
             },
             {
@@ -26487,11 +26487,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.75112,
+              "weightedPct": 0.7769,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-23T14:53"
+          "fetchedAt": "2026-03-23T15:01"
         }
       },
       "shortNames": {
