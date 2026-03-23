@@ -13645,7 +13645,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-23T15:06"
+          "fetchedAt": "2026-03-23T15:13"
         }
       },
       "shortNames": {
@@ -26001,7 +26001,7 @@
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
                   "earned": 296.5,
-                  "possible": 550.0,
+                  "possible": 300.0,
                   "assignments": [
                     {
                       "name": "Q3 Concert",
@@ -26615,7 +26615,7 @@
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
                   "earned": 83.7,
-                  "possible": 119.0,
+                  "possible": 109.0,
                   "assignments": [
                     {
                       "name": "Check in writing Scientific Notation (edulastic)",
@@ -26733,7 +26733,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-23T15:06"
+          "fetchedAt": "2026-03-23T15:13"
         }
       },
       "shortNames": {
