@@ -14104,7 +14104,7 @@
                   "assignments": [
                     {
                       "name": " Q4 Pre-test CUA",
-                      "earned": null,
+                      "earned": 67.0,
                       "possible": 100,
                       "due": "03/25/2026",
                       "active": false
@@ -14699,7 +14699,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-24T09:00"
+          "fetchedAt": "2026-03-24T16:30"
         }
       },
       "shortNames": {
@@ -28287,9 +28287,16 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 318.0,
-                  "possible": 355.0,
+                  "earned": 333.0,
+                  "possible": 375.0,
                   "assignments": [
+                    {
+                      "name": "Notebook Check (Open Note Quiz)",
+                      "earned": 15.0,
+                      "possible": 20,
+                      "due": "03/25/2026",
+                      "active": true
+                    },
                     {
                       "name": "Unit 6 CUA",
                       "earned": 10.0,
@@ -28767,7 +28774,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-24T09:00"
+          "fetchedAt": "2026-03-24T16:30"
         }
       },
       "shortNames": {
