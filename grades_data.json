@@ -15420,8 +15420,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 175.0,
-                  "possible": 175.0,
+                  "earned": 393.0,
+                  "possible": 400.0,
                   "assignments": [
                     {
                       "name": "Performing Arts Concert Attendance",
@@ -15460,21 +15460,21 @@
                     },
                     {
                       "name": "3Q Etude Assessment",
-                      "earned": null,
+                      "earned": 100.0,
                       "possible": 100,
                       "due": "03/09/2026",
                       "active": true
                     },
                     {
                       "name": "3Q Music Theory Assessment",
-                      "earned": null,
+                      "earned": 43.0,
                       "possible": 50,
                       "due": "03/09/2026",
                       "active": true
                     },
                     {
                       "name": "3Q Scale Assessment",
-                      "earned": null,
+                      "earned": 75.0,
                       "possible": 75,
                       "due": "03/09/2026",
                       "active": true
@@ -15753,7 +15753,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-25T09:00"
+          "fetchedAt": "2026-03-25T16:30"
         }
       },
       "shortNames": {
@@ -30696,9 +30696,16 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 83.7,
-                  "possible": 109.0,
+                  "earned": 93.7,
+                  "possible": 119.0,
                   "assignments": [
+                    {
+                      "name": "Volume Check in (Pear Assess)",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/26/2026",
+                      "active": true
+                    },
                     {
                       "name": "Check in writing Scientific Notation (edulastic)",
                       "earned": 8.0,
@@ -30815,7 +30822,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-25T09:00"
+          "fetchedAt": "2026-03-25T16:30"
         }
       },
       "shortNames": {
