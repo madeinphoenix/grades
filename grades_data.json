@@ -16807,7 +16807,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-26T09:00"
+          "fetchedAt": "2026-03-26T16:30"
         }
       },
       "shortNames": {
@@ -32444,6 +32444,13 @@
                   "possible": 496.0,
                   "assignments": [
                     {
+                      "name": "Civil Rights Vocabulary",
+                      "earned": null,
+                      "possible": 50,
+                      "due": "03/31/2026",
+                      "active": true
+                    },
+                    {
                       "name": "Unit 6 Study Guide",
                       "earned": 30.0,
                       "possible": 30,
@@ -32628,6 +32635,62 @@
                   "earned": 29.0,
                   "possible": 29.0,
                   "assignments": [
+                    {
+                      "name": "OSE Genetics - Lesson 1 Initial Model (Paper)",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/24/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Dragon Genetics (Paper)",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/07/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Galapagos Ep2",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/06/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Genetic Unit Prep - Hamster Heredity",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/05/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Punnett Squares",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/04/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Survival of the Weirdest ",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/03/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Amazing Animals",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "02/28/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Genetics Unit Prep - WHY ARE OFFSPRING SO SIMILAR",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "02/27/2026",
+                      "active": true
+                    },
                     {
                       "name": "Wave Behavior Lesson 4 - High vs Low Sounds",
                       "earned": 5.0,
@@ -32870,7 +32933,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-26T09:00"
+          "fetchedAt": "2026-03-26T16:30"
         }
       },
       "shortNames": {
