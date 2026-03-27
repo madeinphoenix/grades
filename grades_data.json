@@ -16197,7 +16197,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8412,
+              "weightedPct": 0.8519,
               "letterGrade": "B"
             },
             {
@@ -16803,11 +16803,11 @@
                   ]
                 }
               ],
-              "weightedPct": 1.0,
+              "weightedPct": 0.9902,
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-26T16:30"
+          "fetchedAt": "2026-03-26T22:07"
         }
       },
       "shortNames": {
@@ -32933,7 +32933,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-26T16:30"
+          "fetchedAt": "2026-03-26T22:07"
         }
       },
       "shortNames": {
