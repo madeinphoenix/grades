@@ -17861,7 +17861,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-27T09:59"
+          "fetchedAt": "2026-03-27T16:30"
         }
       },
       "shortNames": {
@@ -34922,6 +34922,13 @@
                   "possible": 119.0,
                   "assignments": [
                     {
+                      "name": "Bellwork (pear assess AASA review)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/28/2026",
+                      "active": true
+                    },
+                    {
                       "name": "Volume Check in (Pear Assess)",
                       "earned": 10.0,
                       "possible": 10,
@@ -35044,7 +35051,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-27T09:59"
+          "fetchedAt": "2026-03-27T16:30"
         }
       },
       "shortNames": {
