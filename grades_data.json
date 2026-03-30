@@ -19543,9 +19543,23 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 55.0,
-                  "possible": 60.0,
+                  "earned": 68.8,
+                  "possible": 80.0,
                   "assignments": [
+                    {
+                      "name": "15.2 - Angles in Inscribed Quadrilaterals",
+                      "earned": 6.7,
+                      "possible": 10,
+                      "due": "03/31/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "15.1 - Central and Inscribed Angles",
+                      "earned": 7.1,
+                      "possible": 10,
+                      "due": "03/27/2026",
+                      "active": true
+                    },
                     {
                       "name": "13.4 - Angle of Elev, Depr, Area",
                       "earned": null,
@@ -19626,8 +19640,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8166,
-              "letterGrade": "B"
+              "weightedPct": 0.7914,
+              "letterGrade": "C"
             },
             {
               "name": "WIND ENSEMBLE",
@@ -19721,8 +19735,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 180.0,
-                  "possible": 180.0,
+                  "earned": 190.0,
+                  "possible": 200.0,
                   "assignments": [
                     {
                       "name": "Gatsbi Week 17",
@@ -19824,7 +19838,7 @@
                     },
                     {
                       "name": "Gatsbi Week 10",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "03/28/2026",
                       "active": true
@@ -19972,11 +19986,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9902,
+              "weightedPct": 0.968,
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-30T09:00"
+          "fetchedAt": "2026-03-30T16:30"
         }
       },
       "shortNames": {
@@ -38481,6 +38495,13 @@
                   "possible": 300.0,
                   "assignments": [
                     {
+                      "name": "Chromatic Scale Singing Quiz",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "03/28/2026",
+                      "active": true
+                    },
+                    {
                       "name": "Q3 Concert",
                       "earned": 250.0,
                       "possible": 250,
@@ -38520,9 +38541,72 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 242.0,
-                  "possible": 242.0,
+                  "earned": 264.5,
+                  "possible": 267.0,
                   "assignments": [
+                    {
+                      "name": "Rehearsal Skills 2.18",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "05/22/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.17",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "05/16/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.16",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "05/09/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.15",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "05/02/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.14",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "04/25/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.13",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "04/18/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.12",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "04/11/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.11",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "04/03/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.10",
+                      "earned": 22.5,
+                      "possible": 25,
+                      "due": "03/28/2026",
+                      "active": true
+                    },
                     {
                       "name": "Daily Downbeat 2.9",
                       "earned": 4.0,
@@ -39161,12 +39245,27 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 93.7,
-                  "possible": 119.0,
+                  "earned": 106.4,
+                  "possible": 144.0,
                   "assignments": [
                     {
+                      "name": "TA iready adding and subtracting sci not",
+                      "earned": 5.6,
+                      "possible": 10,
+                      "due": "03/31/2026",
+                      "active": true,
+                      "note": "should redo"
+                    },
+                    {
+                      "name": "Unit 5 review (hw was finsh 3 probs not done mon))",
+                      "earned": 0.0,
+                      "possible": 5,
+                      "due": "03/31/2026",
+                      "active": true
+                    },
+                    {
                       "name": "Bellwork (pear assess AASA review)",
-                      "earned": null,
+                      "earned": 7.1,
                       "possible": 10,
                       "due": "03/28/2026",
                       "active": true
@@ -39294,7 +39393,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-30T09:00"
+          "fetchedAt": "2026-03-30T16:30"
         }
       },
       "shortNames": {
