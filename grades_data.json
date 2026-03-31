@@ -21065,7 +21065,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-03-31T10:15"
+          "fetchedAt": "2026-03-31T15:26"
         }
       },
       "shortNames": {
@@ -41294,19 +41294,19 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 29.0,
-                  "possible": 29.0,
+                  "earned": 39.0,
+                  "possible": 59.0,
                   "assignments": [
                     {
                       "name": "OSE Genetics - Lesson 1 Initial Model (Paper)",
-                      "earned": null,
+                      "earned": 5.0,
                       "possible": 5,
                       "due": "03/24/2026",
                       "active": true
                     },
                     {
                       "name": "Genetics Unit Prep - Dragon Genetics (Paper)",
-                      "earned": null,
+                      "earned": 5.0,
                       "possible": 5,
                       "due": "03/07/2026",
                       "active": true
@@ -41617,7 +41617,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-03-31T10:15"
+          "fetchedAt": "2026-03-31T15:26"
         }
       },
       "shortNames": {
