@@ -21350,6 +21350,27 @@
                   "possible": 160.0,
                   "assignments": [
                     {
+                      "name": "Rat Poison Explanation",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/02/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rat Genetic Variation",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/31/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "Rat model investigation",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/31/2026",
+                      "active": true
+                    },
+                    {
                       "name": "Analyzing Hawksbeard data",
                       "earned": 10.0,
                       "possible": 10,
@@ -22140,7 +22161,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-01T09:00"
+          "fetchedAt": "2026-04-01T16:30"
         }
       },
       "shortNames": {
@@ -43522,6 +43543,20 @@
                   "possible": 59.0,
                   "assignments": [
                     {
+                      "name": "OSE Genetics - Lesson 2.2 - How Do Extra",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/27/2026",
+                      "active": true
+                    },
+                    {
+                      "name": "OSE Genetics - Lesson 2 2.1 - How Do Extra-Big Mus",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/26/2026",
+                      "active": true
+                    },
+                    {
                       "name": "OSE Genetics - Lesson 1 Initial Model (Paper)",
                       "earned": 5.0,
                       "possible": 5,
@@ -43639,9 +43674,16 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 82.21,
-                  "possible": 105.0,
+                  "earned": 89.21,
+                  "possible": 115.0,
                   "assignments": [
+                    {
+                      "name": "Lesson 23 Quiz",
+                      "earned": 7.0,
+                      "possible": 10,
+                      "due": "04/02/2026",
+                      "active": true
+                    },
                     {
                       "name": "CUA 5 Exponent Laws/Scientific Noation",
                       "earned": null,
@@ -43841,7 +43883,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-01T09:00"
+          "fetchedAt": "2026-04-01T16:30"
         }
       },
       "shortNames": {
