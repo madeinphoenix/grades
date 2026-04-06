@@ -27648,7 +27648,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-06T14:11"
+          "fetchedAt": "2026-04-06T14:32"
         }
       },
       "shortNames": {
@@ -54388,8 +54388,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8618,
-              "letterGrade": "B"
+              "weightedPct": 0.7851,
+              "letterGrade": "C"
             },
             {
               "name": "CHOIR II",
@@ -54602,7 +54602,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.993,
+              "weightedPct": 0.992,
               "letterGrade": "A"
             },
             {
@@ -54945,7 +54945,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.835,
+              "weightedPct": 0.8364,
               "letterGrade": "B"
             },
             {
@@ -55123,8 +55123,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8824,
-              "letterGrade": "B"
+              "weightedPct": 0.7468,
+              "letterGrade": "C"
             },
             {
               "name": "MATH 8",
@@ -55347,11 +55347,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7769,
+              "weightedPct": 0.7342,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-06T14:11"
+          "fetchedAt": "2026-04-06T14:32"
         }
       },
       "shortNames": {
