@@ -28714,9 +28714,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 68.8,
-                  "possible": 80.0,
+                  "earned": 78.8,
+                  "possible": 90.0,
                   "assignments": [
+                    {
+                      "name": "15.3 Tangents and Circumscribed Angles",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "15.2 - Angles in Inscribed Quadrilaterals",
                       "earned": 6.7,
@@ -28837,8 +28846,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7914,
-              "letterGrade": "C"
+              "weightedPct": 0.7983,
+              "letterGrade": "B"
             },
             {
               "name": "WIND ENSEMBLE",
@@ -29279,7 +29288,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-07T09:00"
+          "fetchedAt": "2026-04-07T16:30"
         }
       },
       "shortNames": {
@@ -58600,9 +58609,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 112.4,
-                  "possible": 154.0,
+                  "earned": 117.2,
+                  "possible": 164.0,
                   "assignments": [
+                    {
+                      "name": "check in rational vs irrational 1",
+                      "earned": 4.8,
+                      "possible": 10,
+                      "due": "04/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "TA iready Finding a sqr root to solve problems",
                       "earned": 6.0,
@@ -58792,11 +58810,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7342,
+              "weightedPct": 0.7281,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-07T09:00"
+          "fetchedAt": "2026-04-07T16:30"
         }
       },
       "shortNames": {
