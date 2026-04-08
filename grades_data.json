@@ -30664,7 +30664,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-08T09:47"
+          "fetchedAt": "2026-04-08T16:33"
         }
       },
       "shortNames": {
@@ -60201,7 +60201,7 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 392.0,
+                  "earned": 452.0,
                   "possible": 460.0,
                   "assignments": [
                     {
@@ -60215,20 +60215,20 @@
                     },
                     {
                       "name": "Ab Scale Test",
-                      "earned": null,
+                      "earned": 30.0,
                       "possible": 30,
                       "due": "04/03/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
                       "name": "F Scale Test",
-                      "earned": null,
+                      "earned": 30.0,
                       "possible": 30,
                       "due": "04/03/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -60505,8 +60505,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7851,
-              "letterGrade": "C"
+              "weightedPct": 0.8634,
+              "letterGrade": "B"
             },
             {
               "name": "CHOIR II",
@@ -61731,7 +61731,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-08T09:47"
+          "fetchedAt": "2026-04-08T16:33"
         }
       },
       "shortNames": {
