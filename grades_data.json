@@ -31552,6 +31552,1409 @@
             }
           ],
           "fetchedAt": "2026-04-09T09:00"
+        },
+        "2026-04-10": {
+          "courses": [
+            {
+              "name": "ADVANCED SPORTS TRAINING",
+              "teacher": "Schnittger, J",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 40.0,
+                  "possible": 50.0,
+                  "assignments": [
+                    {
+                      "name": "Assessment",
+                      "earned": 40.0,
+                      "possible": 50,
+                      "due": "05/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "will make up pts when returns"
+                    },
+                    {
+                      "name": "Make ups",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "05/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 40.0,
+                  "possible": 40.0,
+                  "assignments": [
+                    {
+                      "name": "Assignment",
+                      "earned": 40.0,
+                      "possible": 40,
+                      "due": "05/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Final Exam",
+                  "weight": 10.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "Final Exam",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.8888,
+              "letterGrade": "B"
+            },
+            {
+              "name": "EARLY CHILDHOOD-CHILD DEVELOP",
+              "teacher": "Resh, H",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 310.0,
+                  "possible": 310.0,
+                  "assignments": [
+                    {
+                      "name": "Preschool Challenge #2 Movement",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "02/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "extended time given"
+                    },
+                    {
+                      "name": "All About Me Storybook",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "02/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Preschool Challenge #1 Animals ",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Toddler Pamphlet Project",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "01/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 360.0,
+                  "possible": 360.0,
+                  "assignments": [
+                    {
+                      "name": "Spring Activity",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Chapter 8 Vocab",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Went over as whole class & extended time given to complete"
+                    },
+                    {
+                      "name": "Reading Observation",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Storybook Reading",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Guest Speaker",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Observation #2",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Inside Out Video Worksheet",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Chapter 6 Notes",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "notes provided in GC & extended time given to complete"
+                    },
+                    {
+                      "name": "Group Poster Project Toddler Development",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "01/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Observation #1",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Chp 6 Vocab",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Bookshelf Project",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "01/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Chp 5 Notes",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "extended time given & notes provided in GC"
+                    },
+                    {
+                      "name": "Ticket out the door 1/16",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "extended time to complete"
+                    },
+                    {
+                      "name": "Toddler Video Worksheet",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Bell Work 1/8",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "extended time to complete"
+                    },
+                    {
+                      "name": "Chp 5 vocab",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "extended time given"
+                    },
+                    {
+                      "name": "Ticket Out the Door",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "extended time to complete"
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 1.0,
+              "letterGrade": "A"
+            },
+            {
+              "name": "HONORS BIOLOGY",
+              "teacher": "Dubas, D",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 254.7,
+                  "possible": 300.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 3 assessment",
+                      "earned": 82.5,
+                      "possible": 100,
+                      "due": "02/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 3 talk it out extra credit",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "02/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 3 check",
+                      "earned": 86.1,
+                      "possible": 100,
+                      "due": "02/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "mid unit assessment",
+                      "earned": 86.1,
+                      "possible": 100,
+                      "due": "02/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "This score has been increased because of an improved assessment score.  The original score was 70"
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 129.8,
+                  "possible": 180.0,
+                  "assignments": [
+                    {
+                      "name": "Rat Poison Explanation",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rat Genetic Variation",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/31/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rat model investigation",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/31/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Analyzing Hawksbeard data",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Common garden experiment",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/24/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Hawksbeard seed dispersal lab",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/24/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": true
+                    },
+                    {
+                      "name": "Case studies chart",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Planet Earth cities video",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/03/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Urbanization model",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Urbanization quiz",
+                      "earned": 8.0,
+                      "possible": 10,
+                      "due": "02/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Biology of skin color video",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Mitosis and meiosis review",
+                      "earned": 9.5,
+                      "possible": 10,
+                      "due": "02/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Protein Synthesis review",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Lakita Family pedigree",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Meiosis POGIL",
+                      "earned": 0.0,
+                      "possible": 10,
+                      "due": "02/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Kinesthetic model",
+                      "earned": 9.5,
+                      "possible": 10,
+                      "due": "02/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Checklist explanation",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "01/27/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Replication simulation guidance",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "01/27/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Replication summary assignment",
+                      "earned": 8.6,
+                      "possible": 10,
+                      "due": "01/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "This score has been increased because of an improved assessment score.  The original score was 8"
+                    },
+                    {
+                      "name": "Cell game round 2 scorecard",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "01/21/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Cell growth simulation",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "lessons 1-4 quiz",
+                      "earned": 8.6,
+                      "possible": 10,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "This score has been increased because of an improved assessment score.  The original score was 8"
+                    },
+                    {
+                      "name": "Unit conversion worksheet",
+                      "earned": 7.0,
+                      "possible": 10,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Cell game summary assignment",
+                      "earned": 8.6,
+                      "possible": 10,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "This score has been increased because of an improved assessment score.  The original score was 7"
+                    },
+                    {
+                      "name": "Cell game round 1 scorecard",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "01/13/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.7921,
+              "letterGrade": "C"
+            },
+            {
+              "name": "HONORS ENGLISH I",
+              "teacher": "Wallis, S",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 510.0,
+                  "possible": 600.0,
+                  "assignments": [
+                    {
+                      "name": "4.1 W.1 Writing Check- Synthesis (B,S,P)",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "04/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": " Q4 Pre-test CUA",
+                      "earned": 67.0,
+                      "possible": 100,
+                      "due": "03/25/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "3.2 CUA Final",
+                      "earned": 98.0,
+                      "possible": 100,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "3.2 Passion Project Presentation",
+                      "earned": 98.0,
+                      "possible": 100,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 96"
+                    },
+                    {
+                      "name": "3.2 W.2 Writing Check- Memoir Rhetorical Analysis",
+                      "earned": 77.0,
+                      "possible": 100,
+                      "due": "02/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "3.1 Summative",
+                      "earned": 80.0,
+                      "possible": 100,
+                      "due": "02/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "3.1 Summative Check",
+                      "earned": 80.0,
+                      "possible": 100,
+                      "due": "02/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 77"
+                    },
+                    {
+                      "name": "3.1 W.2 Writing Check- Chavez Rhetorical Analysis",
+                      "earned": 77.0,
+                      "possible": 100,
+                      "due": "01/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 67"
+                    },
+                    {
+                      "name": "Q3 Pre-test CUA",
+                      "earned": 78.0,
+                      "possible": 100,
+                      "due": "01/07/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 327.0,
+                  "possible": 400.0,
+                  "assignments": [
+                    {
+                      "name": "3.1.5 Word Choice (Vocab) + Tone",
+                      "earned": 80.0,
+                      "possible": 100,
+                      "due": "01/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: M"
+                    },
+                    {
+                      "name": "3.1.1 RI.5&6 Chavez SOAPSTone",
+                      "earned": 80.0,
+                      "possible": 100,
+                      "due": "01/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 70"
+                    },
+                    {
+                      "name": "3.1.6 L.1 Parallelism Bellwork",
+                      "earned": 86.0,
+                      "possible": 100,
+                      "due": "01/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 86"
+                    },
+                    {
+                      "name": "3.1.3 - RI.4 Tone",
+                      "earned": 81.0,
+                      "possible": 100,
+                      "due": "01/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 81"
+                    },
+                    {
+                      "name": "3.1.2 - Practice SOAPSTone \"Traveling\"",
+                      "earned": 80.0,
+                      "possible": 100,
+                      "due": "01/10/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.8355,
+              "letterGrade": "B"
+            },
+            {
+              "name": "HONORS GEOMETRY",
+              "teacher": "Nolf, Q",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 442.0,
+                  "possible": 600.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 7 Project",
+                      "earned": 90.0,
+                      "possible": 100,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 7 Summative Assessment",
+                      "earned": 56.0,
+                      "possible": 100,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 7 Summative Check ",
+                      "earned": 56.0,
+                      "possible": 100,
+                      "due": "02/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Score = 5/9 = 56%. Improvements: Definition of Tangent, Angle of Depression, Pythagorean Theorem, Law of Sines"
+                    },
+                    {
+                      "name": "Unit 6 Project - Similar Figures Video",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "02/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 6 Summative Assessment",
+                      "earned": 60.0,
+                      "possible": 100,
+                      "due": "02/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 6 Summative Check (CUA)",
+                      "earned": 80.0,
+                      "possible": 100,
+                      "due": "01/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Online = 8/9, Proof= 0/1. Total = 8/10 = 80%. Improvements: Parallelogram properties, Partitioning a line segment, Triangle proportionality proof"
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 78.8,
+                  "possible": 100.0,
+                  "assignments": [
+                    {
+                      "name": "15.4 - Circles on the Coordinate Plane",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/10/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "15.3 Tangents and Circumscribed Angles",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "15.2 - Angles in Inscribed Quadrilaterals",
+                      "earned": 6.7,
+                      "possible": 10,
+                      "due": "03/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "15.1 - Central and Inscribed Angles",
+                      "earned": 7.1,
+                      "possible": 10,
+                      "due": "03/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "13.4 - Angle of Elev, Depr, Area",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "02/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "13.3 - Special Right Triangles Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/20/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "13.2 Check - Sine and Cosine",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "02/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "13.1 Check - Tangent",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "12.3 - Triangle Proportionality Check (Ungraded)",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/30/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "12.4 - Similarity in Right Triangles Check",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "01/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "12.3 - Partitioning Check (Ungraded)",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/27/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "12.2 - Similar Triangles Check",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "01/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "12.1 - Similar Figures Check",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "01/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Module 11 Check 2 - Quadrilateral Proofs",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Module 11 Check 1 - Quadrilateral Properties",
+                      "earned": 8.0,
+                      "possible": 10,
+                      "due": "01/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.7594,
+              "letterGrade": "C"
+            },
+            {
+              "name": "WIND ENSEMBLE",
+              "teacher": "Kozacek, M",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 393.0,
+                  "possible": 400.0,
+                  "assignments": [
+                    {
+                      "name": "Performing Arts Concert Attendance",
+                      "earned": null,
+                      "possible": 50,
+                      "due": "05/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "4Q Etude Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "4Q Music Theory Assessment",
+                      "earned": null,
+                      "possible": 50,
+                      "due": "05/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "4Q Scale Assessment",
+                      "earned": null,
+                      "possible": 75,
+                      "due": "05/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Concert",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "3Q Etude Assessment",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "03/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "3Q Music Theory Assessment",
+                      "earned": 43.0,
+                      "possible": 50,
+                      "due": "03/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "3Q Scale Assessment",
+                      "earned": 75.0,
+                      "possible": 75,
+                      "due": "03/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Concert",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "03/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Concert Rehearsal",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "02/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Regional Auditions",
+                      "earned": 50.0,
+                      "possible": 50,
+                      "due": "01/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 190.0,
+                  "possible": 200.0,
+                  "assignments": [
+                    {
+                      "name": "Gatsbi Week 17",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 16",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 16",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 15",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 15",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 14",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 14",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 13",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 13",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 12",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 12",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 11",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 11",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 10",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "03/30/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 10",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 9",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 9",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "March Mania EC",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 8",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 8",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 7",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 7",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 6",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 6",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 5",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 5",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 4",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 4",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Soda Extra Credit",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "01/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 3",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 3",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 2",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 2",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 1",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 1",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.968,
+              "letterGrade": "A"
+            }
+          ],
+          "fetchedAt": "2026-04-10T09:00"
         }
       },
       "shortNames": {
@@ -63482,6 +64885,1583 @@
             }
           ],
           "fetchedAt": "2026-04-09T09:00"
+        },
+        "2026-04-10": {
+          "courses": [
+            {
+              "name": "BAND II",
+              "teacher": "Bannon, J",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 60.0,
+                  "earned": 452.0,
+                  "possible": 460.0,
+                  "assignments": [
+                    {
+                      "name": "Concert Review",
+                      "earned": null,
+                      "possible": 30,
+                      "due": "05/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Ab Scale Test",
+                      "earned": 30.0,
+                      "possible": 30,
+                      "due": "04/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "F Scale Test",
+                      "earned": 30.0,
+                      "possible": 30,
+                      "due": "04/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "C Scale Test",
+                      "earned": 24.0,
+                      "possible": 30,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Db Scale Test",
+                      "earned": 30.0,
+                      "possible": 30,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "ABODA JHS Band Festival",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "02/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Steady tone/roll assessment",
+                      "earned": 8.0,
+                      "possible": 10,
+                      "due": "02/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "6th Grade Festival Concert",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "01/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Level Up 2",
+                      "earned": 50.0,
+                      "possible": 50,
+                      "due": "01/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Level Up 1",
+                      "earned": 50.0,
+                      "possible": 50,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Note Name #5",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Note Name #6",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Note Name #7",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 356.0,
+                  "possible": 520.0,
+                  "assignments": [
+                    {
+                      "name": "Adjudication Sheet #1",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Adjudication Sheet #2",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Adjudication Sheet #3",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Work Habits 9",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Log #16",
+                      "earned": 0.0,
+                      "possible": 40,
+                      "due": "03/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Work Habits 8",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "02/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Log #15",
+                      "earned": 44.0,
+                      "possible": 40,
+                      "due": "02/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Work Habits 7",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "02/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Log #14",
+                      "earned": 0.0,
+                      "possible": 40,
+                      "due": "02/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Turned in 2 weeks late. Doesn't count"
+                    },
+                    {
+                      "name": "Work Habits 6",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "02/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": " Practice Log #13",
+                      "earned": 0.0,
+                      "possible": 40,
+                      "due": "02/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Log #10",
+                      "earned": 44.0,
+                      "possible": 40,
+                      "due": "02/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Work Habits 5",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "02/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Work Habits 4",
+                      "earned": 21.0,
+                      "possible": 25,
+                      "due": "01/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": " Practice Log #12",
+                      "earned": 0.0,
+                      "possible": 40,
+                      "due": "01/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Turned in 4 weeks late. Doesn't count."
+                    },
+                    {
+                      "name": "Work Habits 3",
+                      "earned": 18.0,
+                      "possible": 20,
+                      "due": "01/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": " Practice Log #11",
+                      "earned": 44.0,
+                      "possible": 40,
+                      "due": "01/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Work Habits 2",
+                      "earned": 20.0,
+                      "possible": 25,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Work Habits 1",
+                      "earned": 20.0,
+                      "possible": 25,
+                      "due": "01/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.8634,
+              "letterGrade": "B"
+            },
+            {
+              "name": "CHOIR II",
+              "teacher": "Griggs, E",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 60.0,
+                  "earned": 332.5,
+                  "possible": 335.0,
+                  "assignments": [
+                    {
+                      "name": "Group Work Reflection",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Chromatic Scale Singing Quiz",
+                      "earned": 26.0,
+                      "possible": 25,
+                      "due": "03/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Q3 Concert",
+                      "earned": 250.0,
+                      "possible": 250,
+                      "due": "02/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Sight Reading Factory  - 2/9",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "02/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Festival & Concert 2/2",
+                      "earned": null,
+                      "possible": 250,
+                      "due": "02/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": true
+                    },
+                    {
+                      "name": "Memory Check for 2/2",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "01/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Sight Reading Factory  - 1/16",
+                      "earned": 21.5,
+                      "possible": 25,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 296.5,
+                  "possible": 299.0,
+                  "assignments": [
+                    {
+                      "name": "Rehearsal Skills 2.18",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "05/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.17",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "05/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.16",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "05/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.15",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "05/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.14",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "04/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.13",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "04/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.12",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "04/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.11",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "04/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Daily Downbeat 2.10-2.11",
+                      "earned": 12.0,
+                      "possible": 12,
+                      "due": "04/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.10",
+                      "earned": 22.5,
+                      "possible": 25,
+                      "due": "03/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Daily Downbeat 2.9",
+                      "earned": 4.0,
+                      "possible": 4,
+                      "due": "03/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.9",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "03/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Daily Downbeat 2.7-8",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.8",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "02/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Q3 Concert Reflection",
+                      "earned": 50.0,
+                      "possible": 50,
+                      "due": "02/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.7",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "02/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.6",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "02/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.4",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "01/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.2",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Daily Downbeat 2.1",
+                      "earned": 8.0,
+                      "possible": 8,
+                      "due": "01/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 2.1",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "01/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "What a fantastic week back! I am so proud of your hard work and immensely enjoyed teaching you this week!"
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.9921,
+              "letterGrade": "A"
+            },
+            {
+              "name": "HONORS ENGLISH LANG ARTS 8",
+              "teacher": "Trickett, L",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 60.0,
+                  "earned": 89.0,
+                  "possible": 108.0,
+                  "assignments": [
+                    {
+                      "name": "Sentence Structure SA",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "04/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "CUA for Unit #3",
+                      "earned": 16.0,
+                      "possible": 18,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "\"Ban the Ban\" Test",
+                      "earned": 17.0,
+                      "possible": 27,
+                      "due": "02/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Independent/Dependent Clause Summative Assessment",
+                      "earned": 16.0,
+                      "possible": 20,
+                      "due": "01/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "\"Barrington Irving\" Test",
+                      "earned": 20.0,
+                      "possible": 23,
+                      "due": "01/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 201.0,
+                  "possible": 230.0,
+                  "assignments": [
+                    {
+                      "name": "Sentence Structure Formative Assessment",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "04/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Argumentative Essay ROUGH DRAFT",
+                      "earned": 30.0,
+                      "possible": 30,
+                      "due": "03/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "\"Ban the Ban\" Formative Assessment",
+                      "earned": 12.0,
+                      "possible": 36,
+                      "due": "02/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Coordinating Conjunctions Formative Assessment",
+                      "earned": 14.0,
+                      "possible": 14,
+                      "due": "02/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "See me to take test."
+                    },
+                    {
+                      "name": "Independent/Dependent Clause Formative Assessment",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "01/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "\"Barrington Irving\" Formative Assessment",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "01/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Direct/Indirect Chac - \"Cat in the Hat\" FA",
+                      "earned": 19.0,
+                      "possible": 20,
+                      "due": "01/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "NRI Formative Assessment It's/Whose",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "01/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "NRI QUIZ (Formative)",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "01/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Winter Break Story",
+                      "earned": 21.0,
+                      "possible": 25,
+                      "due": "01/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.844,
+              "letterGrade": "B"
+            },
+            {
+              "name": "HONORS HISTORY & SOCIAL SCI 8",
+              "teacher": "Williams, A",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 60.0,
+                  "earned": 333.0,
+                  "possible": 375.0,
+                  "assignments": [
+                    {
+                      "name": "Notebook Check (Open Note Quiz)",
+                      "earned": 15.0,
+                      "possible": 20,
+                      "due": "03/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 6 CUA",
+                      "earned": 10.0,
+                      "possible": 15,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 6 Exam",
+                      "earned": 80.0,
+                      "possible": 100,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 5 CUA",
+                      "earned": 8.0,
+                      "possible": 15,
+                      "due": "02/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 5 Research Project - PSA Video",
+                      "earned": 120.0,
+                      "possible": 125,
+                      "due": "01/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 5 Research Project - Individual",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "01/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 5 Research Project - Works Cited",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "01/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 5 Research Project - Research",
+                      "earned": 50.0,
+                      "possible": 50,
+                      "due": "01/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 510.0,
+                  "possible": 677.0,
+                  "assignments": [
+                    {
+                      "name": "Civil Disobedience Centers",
+                      "earned": 35.0,
+                      "possible": 35,
+                      "due": "04/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Warm Ups #4 (March 23-April 3)",
+                      "earned": 21.0,
+                      "possible": 24,
+                      "due": "04/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Childrens March (EdPuzzle)",
+                      "earned": 25.0,
+                      "possible": 27,
+                      "due": "04/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Emmett Till Silent Discussion",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "04/03/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Civil Rights Vocabulary",
+                      "earned": 50.0,
+                      "possible": 50,
+                      "due": "03/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Emmett Till Background (video analysis)",
+                      "earned": 10.0,
+                      "possible": 25,
+                      "due": "03/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 6 Study Guide",
+                      "earned": 30.0,
+                      "possible": 30,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Narratives Four Square",
+                      "earned": null,
+                      "possible": 45,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Warm Ups #3 (Feb20-Mar4)",
+                      "earned": 24.0,
+                      "possible": 24,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Child Labor Reader Response",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "02/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Refugee Reading (I Had to Run...)",
+                      "earned": 21.0,
+                      "possible": 25,
+                      "due": "02/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "DBQ Documents A-D",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "02/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gandhi: Sensory Writing",
+                      "earned": 40.0,
+                      "possible": 40,
+                      "due": "02/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "DBQ Background Questions",
+                      "earned": 13.0,
+                      "possible": 15,
+                      "due": "02/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Warm Ups #2 (Feb5-19)",
+                      "earned": 24.0,
+                      "possible": 24,
+                      "due": "02/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "International Organizations (Groups)",
+                      "earned": 35.0,
+                      "possible": 35,
+                      "due": "02/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "I Live in a Refugee Camp",
+                      "earned": 13.0,
+                      "possible": 14,
+                      "due": "02/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Universal Declaration (UDHR)",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "02/13/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "United Nations WebQuest",
+                      "earned": 30.0,
+                      "possible": 30,
+                      "due": "02/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Warm Ups #1 (Jan5-Feb4)",
+                      "earned": 24.0,
+                      "possible": 24,
+                      "due": "02/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Holocaust Resistance Read/Response",
+                      "earned": null,
+                      "possible": 30,
+                      "due": "01/13/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Propaganda Analysis",
+                      "earned": 30.0,
+                      "possible": 30,
+                      "due": "01/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Holocaust Overview WebQuest",
+                      "earned": 50.0,
+                      "possible": 50,
+                      "due": "01/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Intro to Unit 5 Summary",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "01/08/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.8341,
+              "letterGrade": "B"
+            },
+            {
+              "name": "HONORS SCIENCE 8",
+              "teacher": "Granados, S",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 60.0,
+                  "earned": 20.1,
+                  "possible": 25.0,
+                  "assignments": [
+                    {
+                      "name": "Wave Behaviors Assessment 3 - Unit Test",
+                      "earned": 7.1,
+                      "possible": 10,
+                      "due": "02/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Corrections Behaviors Assessment 2 - Sound & Wavef",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "01/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Waves Behaviors Assessment 2 - Sound & Waveforms",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "01/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Corrections to Wave Behaviors Assessment 1",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Wave Behaviors Assessment 1: Sound Production",
+                      "earned": 3.0,
+                      "possible": 5,
+                      "due": "01/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 39.0,
+                  "possible": 59.0,
+                  "assignments": [
+                    {
+                      "name": "OSE Genetics - Lesson 2.2 - How Do Extra",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "OSE Genetics - Lesson 2 2.1 - How Do Extra-Big Mus",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "OSE Genetics - Lesson 1 Initial Model (Paper)",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "03/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Dragon Genetics (Paper)",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "03/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Galapagos Ep2",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Genetic Unit Prep - Hamster Heredity",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/05/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Punnett Squares",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/04/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Survival of the Weirdest ",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "03/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Genetics Unit Prep - Amazing Animals",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "02/28/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Genetics Unit Prep - WHY ARE OFFSPRING SO SIMILAR",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "02/27/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Wave Behavior Lesson 4 - High vs Low Sounds",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Wave Behavior Lesson 3 - Loud vs Soft Sounds",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Wave Behavior Lesson 2 PT 2- Bee Model",
+                      "earned": 2.0,
+                      "possible": 2,
+                      "due": "01/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Wave Behavior Lesson 2PT2",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Wave Behavior Lesson 2PT1",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Wave Behavior Lesson 1",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Wave Behavior Lesson 1 - Initial Model",
+                      "earned": 2.0,
+                      "possible": 2,
+                      "due": "01/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.7468,
+              "letterGrade": "C"
+            },
+            {
+              "name": "MATH 8",
+              "teacher": "Kneisel, J",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 60.0,
+                  "earned": 103.21,
+                  "possible": 140.0,
+                  "assignments": [
+                    {
+                      "name": "Lesson 23 Quiz",
+                      "earned": 7.0,
+                      "possible": 10,
+                      "due": "04/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "CUA 5 Exponent Laws/Scientific Noation",
+                      "earned": 14.0,
+                      "possible": 25,
+                      "due": "03/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "rt"
+                    },
+                    {
+                      "name": "Lesson 19/20 Comp Check",
+                      "earned": 5.0,
+                      "possible": 10,
+                      "due": "02/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": true,
+                      "note": "none submitted entered as 50% has now not submitted or stayed to finish during lunch 2 times"
+                    },
+                    {
+                      "name": "CUA 4",
+                      "earned": 38.21,
+                      "possible": 50,
+                      "due": "02/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "rt"
+                    },
+                    {
+                      "name": "Lesson 15-17 Unit Exam",
+                      "earned": 24.0,
+                      "possible": 25,
+                      "due": "01/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "rt nc"
+                    },
+                    {
+                      "name": "Lesson 16 Comp Check (iready)",
+                      "earned": 6.0,
+                      "possible": 10,
+                      "due": "01/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Lesson 15 Summative comp check",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "01/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "rt"
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 117.2,
+                  "possible": 164.0,
+                  "assignments": [
+                    {
+                      "name": "check in rational vs irrational 1",
+                      "earned": 4.8,
+                      "possible": 10,
+                      "due": "04/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "TA iready Finding a sqr root to solve problems",
+                      "earned": 6.0,
+                      "possible": 10,
+                      "due": "04/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "can retry"
+                    },
+                    {
+                      "name": "TA iready adding and subtracting sci not",
+                      "earned": 5.6,
+                      "possible": 10,
+                      "due": "03/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "should redo"
+                    },
+                    {
+                      "name": "Unit 5 review (hw was finsh 3 probs not done mon))",
+                      "earned": 0.0,
+                      "possible": 5,
+                      "due": "03/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": true
+                    },
+                    {
+                      "name": "Bellwork (pear assess AASA review)",
+                      "earned": 7.1,
+                      "possible": 10,
+                      "due": "03/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Volume Check in (Pear Assess)",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "03/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Check in writing Scientific Notation (edulastic)",
+                      "earned": 8.0,
+                      "possible": 10,
+                      "due": "03/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "TA Practice Estimating with powers of 10",
+                      "earned": 7.9,
+                      "possible": 10,
+                      "due": "03/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "TA iready practice for powers with same base",
+                      "earned": 8.8,
+                      "possible": 10,
+                      "due": "02/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "TA iready Practice Using Graphs 2dsc Qualitatively",
+                      "earned": 8.8,
+                      "possible": 10,
+                      "due": "02/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Lesson 18 Check in (edulastic) Qualitative graphs",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "02/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": true,
+                      "note": "absent"
+                    },
+                    {
+                      "name": "TA iready comparing functions at different values",
+                      "earned": 5.0,
+                      "possible": 10,
+                      "due": "02/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "TA iready Practice Wrtng an Equation from 2 points",
+                      "earned": 2.0,
+                      "possible": 10,
+                      "due": "01/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "can redo come see me if you  need hellp"
+                    },
+                    {
+                      "name": "TA iready Practice Linear and Nonlinear functions",
+                      "earned": 8.2,
+                      "possible": 10,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Week 21 Homework Wkst",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "BW Quiz Wk1/2",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "self graded and corrected"
+                    },
+                    {
+                      "name": "TA iReady Practice Representing and solving equati",
+                      "earned": 6.0,
+                      "possible": 10,
+                      "due": "01/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "15.1 Check In Function/Not a Function",
+                      "earned": 4.0,
+                      "possible": 4,
+                      "due": "01/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "cr+2"
+                    },
+                    {
+                      "name": "17.1 Practice p.345-346",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Function Card Sort (digital)",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Functions and Graphing Review Wkst and CI",
+                      "earned": 5.0,
+                      "possible": 5,
+                      "due": "01/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.7281,
+              "letterGrade": "C"
+            }
+          ],
+          "fetchedAt": "2026-04-10T09:00"
         }
       },
       "shortNames": {
