@@ -31676,9 +31676,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 360.0,
-                  "possible": 360.0,
+                  "earned": 370.0,
+                  "possible": 370.0,
                   "assignments": [
+                    {
+                      "name": "Ticket out the Door CDP",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Spring Activity",
                       "earned": 10.0,
@@ -32954,7 +32963,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-10T09:00"
+          "fetchedAt": "2026-04-10T16:30"
         }
       },
       "shortNames": {
@@ -65280,8 +65289,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 296.5,
-                  "possible": 299.0,
+                  "earned": 321.5,
+                  "possible": 324.0,
                   "assignments": [
                     {
                       "name": "Rehearsal Skills 2.18",
@@ -65339,7 +65348,7 @@
                     },
                     {
                       "name": "Rehearsal Skills 2.12",
-                      "earned": null,
+                      "earned": 25.0,
                       "possible": 25,
                       "due": "04/11/2026",
                       "active": true,
@@ -65476,7 +65485,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9921,
+              "weightedPct": 0.9924,
               "letterGrade": "A"
             },
             {
@@ -66184,6 +66193,15 @@
                   "possible": 140.0,
                   "assignments": [
                     {
+                      "name": "Lesson 24 Quiz",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Lesson 23 Quiz",
                       "earned": 7.0,
                       "possible": 10,
@@ -66461,7 +66479,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-10T09:00"
+          "fetchedAt": "2026-04-10T16:30"
         }
       },
       "shortNames": {
