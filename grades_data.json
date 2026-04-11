@@ -33328,7 +33328,7 @@
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
                   "earned": 129.8,
-                  "possible": 180.0,
+                  "possible": 190.0,
                   "assignments": [
                     {
                       "name": "Rat Poison Explanation",
@@ -33336,7 +33336,7 @@
                       "possible": 10,
                       "due": "04/02/2026",
                       "active": true,
-                      "missing": false,
+                      "missing": true,
                       "incomplete": false
                     },
                     {
@@ -33561,7 +33561,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7921,
+              "weightedPct": 0.7752,
               "letterGrade": "C"
             },
             {
@@ -34375,7 +34375,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-11T09:05"
+          "fetchedAt": "2026-04-11T16:30"
         }
       },
       "shortNames": {
@@ -69477,7 +69477,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-11T09:05"
+          "fetchedAt": "2026-04-11T16:30"
         }
       },
       "shortNames": {
