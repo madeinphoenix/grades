@@ -35796,7 +35796,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-13T09:00"
+          "fetchedAt": "2026-04-13T16:30"
         }
       },
       "shortNames": {
@@ -72047,6 +72047,15 @@
                       "incomplete": false
                     },
                     {
+                      "name": "OSE Genetics - Lesson 6.1 -  How do the extra-larg",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "04/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Pigeonetics - Genetics/Heredity Review Doc",
                       "earned": null,
                       "possible": 5,
@@ -72230,12 +72239,12 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 103.21,
-                  "possible": 140.0,
+                  "earned": 112.71,
+                  "possible": 150.0,
                   "assignments": [
                     {
                       "name": "Lesson 24 Quiz",
-                      "earned": null,
+                      "earned": 9.5,
                       "possible": 10,
                       "due": "04/11/2026",
                       "active": true,
@@ -72316,8 +72325,17 @@
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
                   "earned": 117.2,
-                  "possible": 164.0,
+                  "possible": 174.0,
                   "assignments": [
+                    {
+                      "name": "TA Practice Finding a Cube Root to Solve Problems",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/14/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
                     {
                       "name": "check in rational vs irrational 1",
                       "earned": 4.8,
@@ -72516,11 +72534,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7281,
+              "weightedPct": 0.7202,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-13T09:00"
+          "fetchedAt": "2026-04-13T16:30"
         }
       },
       "shortNames": {
