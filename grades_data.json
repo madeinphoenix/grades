@@ -37392,9 +37392,27 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 327.0,
-                  "possible": 400.0,
+                  "earned": 427.0,
+                  "possible": 600.0,
                   "assignments": [
+                    {
+                      "name": "4.1.3 Theme Statements",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "04/11/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "4.1.1 Act 1 Vocab in Context",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "04/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "3.1.5 Word Choice (Vocab) + Tone",
                       "earned": 80.0,
@@ -37447,8 +37465,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8355,
-              "letterGrade": "B"
+              "weightedPct": 0.7885,
+              "letterGrade": "C"
             },
             {
               "name": "HONORS GEOMETRY",
@@ -38113,7 +38131,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-15T09:00"
+          "fetchedAt": "2026-04-15T16:30"
         }
       },
       "shortNames": {
@@ -77148,6 +77166,15 @@
                   "possible": 174.0,
                   "assignments": [
                     {
+                      "name": "Check in non perfect roots ",
+                      "earned": null,
+                      "possible": 4,
+                      "due": "04/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "TA Practice Finding a Cube Root to Solve Problems",
                       "earned": null,
                       "possible": 10,
@@ -77358,7 +77385,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-15T09:00"
+          "fetchedAt": "2026-04-15T16:30"
         }
       },
       "shortNames": {
