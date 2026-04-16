@@ -38996,9 +38996,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 91.4,
-                  "possible": 100.0,
+                  "earned": 100.4,
+                  "possible": 110.0,
                   "assignments": [
+                    {
+                      "name": "17.1 - Circumference & Area of Circles",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "04/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "15.4 - Circles on the Coordinate Plane",
                       "earned": 8.8,
@@ -39137,7 +39146,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8268,
+              "weightedPct": 0.8262,
               "letterGrade": "B"
             },
             {
@@ -39579,7 +39588,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-16T09:00"
+          "fetchedAt": "2026-04-16T16:30"
         }
       },
       "shortNames": {
@@ -80304,12 +80313,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 117.2,
-                  "possible": 174.0,
+                  "earned": 121.2,
+                  "possible": 173.0,
                   "assignments": [
                     {
                       "name": "Check in non perfect roots ",
-                      "earned": null,
+                      "earned": 4.0,
                       "possible": 4,
                       "due": "04/16/2026",
                       "active": true,
@@ -80359,7 +80368,7 @@
                       "earned": 0.0,
                       "possible": 5,
                       "due": "03/31/2026",
-                      "active": true,
+                      "active": false,
                       "missing": false,
                       "incomplete": true
                     },
@@ -80523,11 +80532,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7202,
+              "weightedPct": 0.731,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-16T09:00"
+          "fetchedAt": "2026-04-16T16:30"
         }
       },
       "shortNames": {
