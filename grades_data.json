@@ -41045,7 +41045,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-17T09:00"
+          "fetchedAt": "2026-04-17T16:30"
         }
       },
       "shortNames": {
@@ -82004,8 +82004,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 452.0,
-                  "possible": 460.0,
+                  "earned": 512.0,
+                  "possible": 520.0,
                   "assignments": [
                     {
                       "name": "Concert Review",
@@ -82017,8 +82017,8 @@
                       "incomplete": false
                     },
                     {
-                      "name": "C Scale Test",
-                      "earned": null,
+                      "name": "D Scale Test",
+                      "earned": 30.0,
                       "possible": 30,
                       "due": "04/18/2026",
                       "active": true,
@@ -82026,8 +82026,8 @@
                       "incomplete": false
                     },
                     {
-                      "name": "Db Scale Test",
-                      "earned": null,
+                      "name": "G Scale Test",
+                      "earned": 30.0,
                       "possible": 30,
                       "due": "04/18/2026",
                       "active": true,
@@ -82326,7 +82326,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8634,
+              "weightedPct": 0.8646,
               "letterGrade": "B"
             },
             {
@@ -82416,8 +82416,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 321.5,
-                  "possible": 324.0,
+                  "earned": 341.5,
+                  "possible": 344.0,
                   "assignments": [
                     {
                       "name": "Rehearsal Skills 2.18",
@@ -82466,8 +82466,8 @@
                     },
                     {
                       "name": "Rehearsal Skills 2.13",
-                      "earned": null,
-                      "possible": 25,
+                      "earned": 20.0,
+                      "possible": 20,
                       "due": "04/18/2026",
                       "active": true,
                       "missing": false,
@@ -82612,7 +82612,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9924,
+              "weightedPct": 0.9926,
               "letterGrade": "A"
             },
             {
@@ -82782,8 +82782,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 333.0,
-                  "possible": 375.0,
+                  "earned": 408.0,
+                  "possible": 450.0,
                   "assignments": [
                     {
                       "name": "Unit 7 CUA",
@@ -82807,14 +82807,14 @@
                       "name": "Unit 7 Exam",
                       "earned": null,
                       "possible": 100,
-                      "due": "04/24/2026",
+                      "due": "04/23/2026",
                       "active": true,
                       "missing": false,
                       "incomplete": false
                     },
                     {
                       "name": "Protest Sign Project",
-                      "earned": null,
+                      "earned": 75.0,
                       "possible": 75,
                       "due": "04/18/2026",
                       "active": true,
@@ -82905,7 +82905,7 @@
                       "name": "Unit 7 Study Guide",
                       "earned": null,
                       "possible": 30,
-                      "due": "04/24/2026",
+                      "due": "04/23/2026",
                       "active": true,
                       "missing": false,
                       "incomplete": false
@@ -83129,7 +83129,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8341,
+              "weightedPct": 0.8453,
               "letterGrade": "B"
             },
             {
@@ -83397,9 +83397,18 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 112.71,
-                  "possible": 150.0,
+                  "earned": 122.71,
+                  "possible": 160.0,
                   "assignments": [
+                    {
+                      "name": "Lesson 25 Quiz (iready)",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Lesson 24 Quiz",
                       "earned": 9.5,
@@ -83701,11 +83710,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.731,
+              "weightedPct": 0.7403,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-17T09:00"
+          "fetchedAt": "2026-04-17T16:30"
         }
       },
       "shortNames": {
