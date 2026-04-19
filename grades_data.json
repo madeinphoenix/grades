@@ -42297,7 +42297,7 @@
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
                   "earned": 136.8,
-                  "possible": 210.0,
+                  "possible": 220.0,
                   "assignments": [
                     {
                       "name": "Genetics worksheet 1",
@@ -42314,7 +42314,7 @@
                       "possible": 10,
                       "due": "04/07/2026",
                       "active": true,
-                      "missing": false,
+                      "missing": true,
                       "incomplete": false
                     },
                     {
@@ -42557,7 +42557,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7611,
+              "weightedPct": 0.748,
               "letterGrade": "C"
             },
             {
@@ -43407,7 +43407,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-19T09:02"
+          "fetchedAt": "2026-04-19T16:38"
         }
       },
       "shortNames": {
@@ -88696,7 +88696,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-19T09:02"
+          "fetchedAt": "2026-04-19T16:38"
         }
       },
       "shortNames": {
