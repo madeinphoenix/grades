@@ -44294,6 +44294,15 @@
                   "possible": 110.0,
                   "assignments": [
                     {
+                      "name": "17.2 - Arc Length & Sector Area",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "17.1 - Circumference & Area of Circles",
                       "earned": 9.0,
                       "possible": 10,
@@ -44882,7 +44891,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-20T09:00"
+          "fetchedAt": "2026-04-20T16:30"
         }
       },
       "shortNames": {
@@ -91706,8 +91715,17 @@
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
                   "earned": 121.2,
-                  "possible": 173.0,
+                  "possible": 183.0,
                   "assignments": [
+                    {
+                      "name": "TA Practice Writing Repeating Decimals as Fraction",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/21/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
                     {
                       "name": "Check in non perfect roots ",
                       "earned": 4.0,
@@ -91924,11 +91942,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7403,
+              "weightedPct": 0.725,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-20T09:00"
+          "fetchedAt": "2026-04-20T16:30"
         }
       },
       "shortNames": {
