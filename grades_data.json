@@ -44902,7 +44902,7 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 40.0,
+                  "earned": 44.0,
                   "possible": 50.0,
                   "assignments": [
                     {
@@ -44917,12 +44917,13 @@
                     },
                     {
                       "name": "Make ups",
-                      "earned": null,
+                      "earned": 4.0,
                       "possible": 0,
                       "due": "05/20/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "makeup video"
                     }
                   ]
                 },
@@ -44961,8 +44962,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8888,
-              "letterGrade": "B"
+              "weightedPct": 0.9333,
+              "letterGrade": "A"
             },
             {
               "name": "EARLY CHILDHOOD-CHILD DEVELOP",
@@ -45774,12 +45775,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 100.4,
-                  "possible": 110.0,
+                  "earned": 107.1,
+                  "possible": 120.0,
                   "assignments": [
                     {
                       "name": "17.2 - Arc Length & Sector Area",
-                      "earned": null,
+                      "earned": 6.7,
                       "possible": 10,
                       "due": "04/21/2026",
                       "active": true,
@@ -45933,7 +45934,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8262,
+              "weightedPct": 0.8173,
               "letterGrade": "B"
             },
             {
@@ -46375,7 +46376,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-21T09:00"
+          "fetchedAt": "2026-04-21T16:30"
         }
       },
       "shortNames": {
@@ -94616,6 +94617,15 @@
                   "possible": 25.0,
                   "assignments": [
                     {
+                      "name": "Corrected Genetics & Heredity Unit Assessment",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Genetics & Heredity Unit Assessment - Cattle",
                       "earned": null,
                       "possible": 10,
@@ -95205,7 +95215,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-21T09:00"
+          "fetchedAt": "2026-04-21T16:30"
         }
       },
       "shortNames": {
