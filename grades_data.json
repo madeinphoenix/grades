@@ -47012,9 +47012,18 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 510.0,
-                  "possible": 600.0,
+                  "earned": 603.0,
+                  "possible": 700.0,
                   "assignments": [
+                    {
+                      "name": "4.1 Summative Check",
+                      "earned": 93.0,
+                      "possible": 100,
+                      "due": "04/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "4.1 W.1 Writing Check- Synthesis (B,S,P)",
                       "earned": null,
@@ -47104,17 +47113,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 427.0,
+                  "earned": 520.0,
                   "possible": 600.0,
                   "assignments": [
                     {
                       "name": "4.1.3 Theme Statements",
-                      "earned": null,
+                      "earned": 93.0,
                       "possible": 100,
                       "due": "04/11/2026",
                       "active": true,
-                      "missing": true,
-                      "incomplete": false
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: M"
                     },
                     {
                       "name": "4.1.1 Act 1 Vocab in Context",
@@ -47123,7 +47133,8 @@
                       "due": "04/10/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "original score: 100"
                     },
                     {
                       "name": "3.1.5 Word Choice (Vocab) + Tone",
@@ -47177,8 +47188,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7885,
-              "letterGrade": "C"
+              "weightedPct": 0.8637,
+              "letterGrade": "B"
             },
             {
               "name": "HONORS GEOMETRY",
@@ -47260,12 +47271,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 107.1,
-                  "possible": 120.0,
+                  "earned": 110.9,
+                  "possible": 130.0,
                   "assignments": [
                     {
                       "name": "17.3 - Radians",
-                      "earned": null,
+                      "earned": 3.8,
                       "possible": 10,
                       "due": "04/23/2026",
                       "active": true,
@@ -47428,7 +47439,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8173,
+              "weightedPct": 0.7997,
               "letterGrade": "B"
             },
             {
@@ -47870,7 +47881,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-22T09:00"
+          "fetchedAt": "2026-04-22T16:30"
         }
       },
       "shortNames": {
@@ -97374,9 +97385,27 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 89.0,
-                  "possible": 108.0,
+                  "earned": 182.0,
+                  "possible": 233.0,
                   "assignments": [
+                    {
+                      "name": "PBA: Argumentative Essay",
+                      "earned": 78.0,
+                      "possible": 100,
+                      "due": "04/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Works Cited Page for Argumentative Essay",
+                      "earned": 15.0,
+                      "possible": 25,
+                      "due": "04/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Sentence Structure SA",
                       "earned": 20.0,
@@ -97524,7 +97553,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.844,
+              "weightedPct": 0.8182,
               "letterGrade": "B"
             },
             {
@@ -97534,8 +97563,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 408.0,
-                  "possible": 450.0,
+                  "earned": 492.0,
+                  "possible": 550.0,
                   "assignments": [
                     {
                       "name": "Unit 7 CUA",
@@ -97557,7 +97586,7 @@
                     },
                     {
                       "name": "Unit 7 Exam",
-                      "earned": null,
+                      "earned": 84.0,
                       "possible": 100,
                       "due": "04/23/2026",
                       "active": true,
@@ -97650,16 +97679,25 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 510.0,
-                  "possible": 677.0,
+                  "earned": 540.0,
+                  "possible": 731.0,
                   "assignments": [
                     {
                       "name": "Unit 7 Study Guide",
-                      "earned": null,
+                      "earned": 30.0,
                       "possible": 30,
                       "due": "04/23/2026",
                       "active": true,
                       "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Warm Ups #5 (April 7-20)",
+                      "earned": null,
+                      "possible": 24,
+                      "due": "04/21/2026",
+                      "active": true,
+                      "missing": true,
                       "incomplete": false
                     },
                     {
@@ -97881,7 +97919,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8453,
+              "weightedPct": 0.8322,
               "letterGrade": "B"
             },
             {
@@ -97891,8 +97929,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 20.1,
-                  "possible": 25.0,
+                  "earned": 23.6,
+                  "possible": 35.0,
                   "assignments": [
                     {
                       "name": "Corrected Genetics & Heredity Unit Assessment",
@@ -97905,7 +97943,7 @@
                     },
                     {
                       "name": "Genetics & Heredity Unit Assessment - Cattle",
-                      "earned": null,
+                      "earned": 3.5,
                       "possible": 10,
                       "due": "04/22/2026",
                       "active": true,
@@ -98158,7 +98196,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7871,
+              "weightedPct": 0.7093,
               "letterGrade": "C"
             },
             {
@@ -98494,7 +98532,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-22T09:00"
+          "fetchedAt": "2026-04-22T16:30"
         }
       },
       "shortNames": {
