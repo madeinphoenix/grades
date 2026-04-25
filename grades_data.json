@@ -51256,9 +51256,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 161.8,
-                  "possible": 220.0,
+                  "earned": 170.8,
+                  "possible": 230.0,
                   "assignments": [
+                    {
+                      "name": "Junco summary assignment",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "04/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Genetics worksheet 1",
                       "earned": 9.0,
@@ -51517,7 +51526,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7985,
+              "weightedPct": 0.8046,
               "letterGrade": "B"
             },
             {
@@ -52405,7 +52414,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-04-25T09:05"
+          "fetchedAt": "2026-04-25T16:30"
         }
       },
       "shortNames": {
@@ -108528,7 +108537,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-04-25T09:05"
+          "fetchedAt": "2026-04-25T16:30"
         }
       },
       "shortNames": {
