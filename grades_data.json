@@ -61066,7 +61066,7 @@
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
                   "earned": 530.0,
-                  "possible": 800.0,
+                  "possible": 900.0,
                   "assignments": [
                     {
                       "name": "Unit 8 Summative Assessment",
@@ -61074,7 +61074,7 @@
                       "possible": 100,
                       "due": "05/02/2026",
                       "active": true,
-                      "missing": false,
+                      "missing": true,
                       "incomplete": false
                     },
                     {
@@ -61334,7 +61334,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7472,
+              "weightedPct": 0.7063,
               "letterGrade": "C"
             },
             {
@@ -61776,7 +61776,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-05-01T09:00"
+          "fetchedAt": "2026-05-01T16:30"
         }
       },
       "shortNames": {
@@ -127553,8 +127553,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 341.5,
-                  "possible": 344.0,
+                  "earned": 366.5,
+                  "possible": 369.0,
                   "assignments": [
                     {
                       "name": "Rehearsal Skills 2.18",
@@ -127585,18 +127585,9 @@
                     },
                     {
                       "name": "Rehearsal Skills 2.15",
-                      "earned": null,
+                      "earned": 25.0,
                       "possible": 25,
                       "due": "05/02/2026",
-                      "active": true,
-                      "missing": false,
-                      "incomplete": false
-                    },
-                    {
-                      "name": "Rehearsal Skills 2.14",
-                      "earned": null,
-                      "possible": 25,
-                      "due": "04/25/2026",
                       "active": true,
                       "missing": false,
                       "incomplete": false
@@ -127749,7 +127740,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9929,
+              "weightedPct": 0.9931,
               "letterGrade": "A"
             },
             {
@@ -128960,7 +128951,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-01T09:00"
+          "fetchedAt": "2026-05-01T16:30"
         }
       },
       "shortNames": {
