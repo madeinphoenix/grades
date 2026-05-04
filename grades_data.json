@@ -65059,6 +65059,24 @@
                   "possible": 310.0,
                   "assignments": [
                     {
+                      "name": "Group LEA Plan Activity",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "TOY Flyer",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Preschool Challenge #2 Movement",
                       "earned": 100.0,
                       "possible": 100,
@@ -65100,9 +65118,45 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 370.0,
-                  "possible": 370.0,
+                  "earned": 390.0,
+                  "possible": 390.0,
                   "assignments": [
+                    {
+                      "name": "Chapter 9",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Writing LEA Plan Notes",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Career Pop Up",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Chapter 8 Review",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Ticket out the Door CDP",
                       "earned": 10.0,
@@ -65282,6 +65336,23 @@
                       "note": "extended time to complete"
                     }
                   ]
+                },
+                {
+                  "name": "Final Exam",
+                  "weight": 10.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "Final - Classroom Design",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "04/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
                 }
               ],
               "weightedPct": 1.0,
@@ -65348,8 +65419,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 170.8,
-                  "possible": 240.0,
+                  "earned": 180.8,
+                  "possible": 250.0,
                   "assignments": [
                     {
                       "name": "Hardy-Weinberg practice",
@@ -65358,6 +65429,15 @@
                       "due": "04/21/2026",
                       "active": true,
                       "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Theories for Change",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "04/21/2026",
+                      "active": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -65654,7 +65734,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7775,
+              "weightedPct": 0.7823,
               "letterGrade": "C"
             },
             {
@@ -65664,12 +65744,21 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 698.0,
-                  "possible": 800.0,
+                  "earned": 768.0,
+                  "possible": 900.0,
                   "assignments": [
                     {
-                      "name": "4.1 Cycle 1 Summative",
+                      "name": "4.2 W1 Final Synthesis Essay",
                       "earned": null,
+                      "possible": 100,
+                      "due": "05/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "4.1 Cycle 1 Summative",
+                      "earned": 70.0,
                       "possible": 100,
                       "due": "04/30/2026",
                       "active": true,
@@ -65870,7 +65959,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8808,
+              "weightedPct": 0.8701,
               "letterGrade": "B"
             },
             {
@@ -66591,7 +66680,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-05-04T09:00"
+          "fetchedAt": "2026-05-04T16:30"
         }
       },
       "shortNames": {
@@ -139337,7 +139426,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-04T09:00"
+          "fetchedAt": "2026-05-04T16:30"
         }
       },
       "shortNames": {
