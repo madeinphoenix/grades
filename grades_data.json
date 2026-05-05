@@ -68386,7 +68386,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-05-05T09:00"
+          "fetchedAt": "2026-05-05T16:30"
         }
       },
       "shortNames": {
@@ -142002,13 +142002,13 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 492.0,
-                  "possible": 550.0,
+                  "earned": 507.0,
+                  "possible": 568.0,
                   "assignments": [
                     {
                       "name": "Unit 7 CUA",
-                      "earned": null,
-                      "possible": 20,
+                      "earned": 15.0,
+                      "possible": 18,
                       "due": "04/25/2026",
                       "active": true,
                       "missing": false,
@@ -142118,9 +142118,36 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 540.0,
-                  "possible": 731.0,
+                  "earned": 570.0,
+                  "possible": 761.0,
                   "assignments": [
+                    {
+                      "name": "Current Event",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "05/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "News Around the World",
+                      "earned": null,
+                      "possible": 30,
+                      "due": "04/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Currencies of the World W/S",
+                      "earned": 30.0,
+                      "possible": 30,
+                      "due": "04/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Unit 7 Study Guide",
                       "earned": 30.0,
@@ -142358,7 +142385,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8322,
+              "weightedPct": 0.8351,
               "letterGrade": "B"
             },
             {
@@ -142989,7 +143016,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-05T09:00"
+          "fetchedAt": "2026-05-05T16:30"
         }
       },
       "shortNames": {
