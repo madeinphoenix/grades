@@ -68781,6 +68781,24 @@
                   "possible": 400.0,
                   "assignments": [
                     {
+                      "name": "B4 Unit assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "B4 Unit check",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Mid Unit assessment",
                       "earned": 75.0,
                       "possible": 100,
@@ -68834,6 +68852,42 @@
                   "earned": 180.8,
                   "possible": 250.0,
                   "assignments": [
+                    {
+                      "name": "Fragmentation and variation summary assignment",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Fish Data study",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "05/05/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Making Sense of Fish Ladders",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "05/05/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Fragmentation Investigation",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "04/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Hardy-Weinberg practice",
                       "earned": null,
@@ -69140,6 +69194,32 @@
                       "possible": 10,
                       "due": "01/13/2026",
                       "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Final Exam",
+                  "weight": 10.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "Spring final exam",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Spring semester check",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/15/2026",
+                      "active": true,
                       "missing": false,
                       "incomplete": false
                     }
@@ -69669,8 +69749,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 393.0,
-                  "possible": 400.0,
+                  "earned": 493.0,
+                  "possible": 500.0,
                   "assignments": [
                     {
                       "name": "Performing Arts Concert Attendance",
@@ -69710,7 +69790,7 @@
                     },
                     {
                       "name": "Concert",
-                      "earned": null,
+                      "earned": 100.0,
                       "possible": 100,
                       "due": "05/06/2026",
                       "active": true,
@@ -70097,11 +70177,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9543,
+              "weightedPct": 0.9563,
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-05-06T09:00"
+          "fetchedAt": "2026-05-06T16:30"
         }
       },
       "shortNames": {
@@ -145477,12 +145557,12 @@
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
                   "earned": 251.0,
-                  "possible": 288.0,
+                  "possible": 305.0,
                   "assignments": [
                     {
                       "name": "Quote of the Week Contest",
                       "earned": null,
-                      "possible": 8,
+                      "possible": 25,
                       "due": "05/07/2026",
                       "active": true,
                       "missing": true,
@@ -145600,7 +145680,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8256,
+              "weightedPct": 0.8062,
               "letterGrade": "B"
             },
             {
@@ -146383,7 +146463,7 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 131.7,
+                  "earned": 138.0,
                   "possible": 193.0,
                   "assignments": [
                     {
@@ -146397,11 +146477,11 @@
                     },
                     {
                       "name": "TA Practice Writing Repeating Decimals as Fraction",
-                      "earned": null,
+                      "earned": 6.3,
                       "possible": 10,
                       "due": "04/21/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -146620,11 +146700,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7279,
+              "weightedPct": 0.7409,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-06T09:00"
+          "fetchedAt": "2026-05-06T16:30"
         }
       },
       "shortNames": {
