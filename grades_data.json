@@ -71976,7 +71976,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-05-07T09:00"
+          "fetchedAt": "2026-05-07T16:30"
         }
       },
       "shortNames": {
@@ -149495,7 +149495,7 @@
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
                   "earned": 570.0,
-                  "possible": 761.0,
+                  "possible": 791.0,
                   "assignments": [
                     {
                       "name": "Current Event",
@@ -149512,7 +149512,7 @@
                       "possible": 30,
                       "due": "04/30/2026",
                       "active": true,
-                      "missing": false,
+                      "missing": true,
                       "incomplete": false
                     },
                     {
@@ -149761,7 +149761,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8351,
+              "weightedPct": 0.8238,
               "letterGrade": "B"
             },
             {
@@ -150392,7 +150392,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-07T09:00"
+          "fetchedAt": "2026-05-07T16:30"
         }
       },
       "shortNames": {
