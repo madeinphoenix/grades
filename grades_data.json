@@ -76074,12 +76074,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 180.8,
-                  "possible": 250.0,
+                  "earned": 189.7,
+                  "possible": 260.0,
                   "assignments": [
                     {
                       "name": "Fragmentation and variation summary assignment",
-                      "earned": null,
+                      "earned": 8.9,
                       "possible": 10,
                       "due": "05/06/2026",
                       "active": true,
@@ -76451,7 +76451,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.787,
+              "weightedPct": 0.7921,
               "letterGrade": "C"
             },
             {
@@ -77424,7 +77424,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-05-10T09:00"
+          "fetchedAt": "2026-05-10T16:30"
         }
       },
       "shortNames": {
@@ -160956,6 +160956,24 @@
                   "possible": 35.0,
                   "assignments": [
                     {
+                      "name": "Semester 2 Exam - Formative MC",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Natural Selection/Adaptation/Speciation Unit Exam",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "05/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Corrected Genetics & Heredity Unit Assessment",
                       "earned": 3.5,
                       "possible": 10,
@@ -161027,6 +161045,24 @@
                   "earned": 64.0,
                   "possible": 84.0,
                   "assignments": [
+                    {
+                      "name": "OSE Natural Selection & Adaptations Lesson 3",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "05/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "OSE Natural Selection & Adaptations Lesson 2.2A",
+                      "earned": null,
+                      "possible": 5,
+                      "due": "04/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "OSE Natural Selection & Adaptations Lesson 2.1 ",
                       "earned": null,
@@ -161600,7 +161636,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-10T09:00"
+          "fetchedAt": "2026-05-10T16:30"
         }
       },
       "shortNames": {
