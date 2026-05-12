@@ -80122,12 +80122,12 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 768.0,
-                  "possible": 900.0,
+                  "earned": 873.0,
+                  "possible": 1000.0,
                   "assignments": [
                     {
                       "name": "4.2 W1 Final Synthesis Essay",
-                      "earned": null,
+                      "earned": 100.0,
                       "possible": 100,
                       "due": "05/08/2026",
                       "active": true,
@@ -80155,12 +80155,13 @@
                     },
                     {
                       "name": "4.1 W.1 Writing Check- Synthesis (B,S,P)",
-                      "earned": 95.0,
+                      "earned": 100.0,
                       "possible": 100,
                       "due": "04/04/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "original score: 95"
                     },
                     {
                       "name": " Q4 Pre-test CUA",
@@ -80245,6 +80246,15 @@
                   "earned": 713.0,
                   "possible": 800.0,
                   "assignments": [
+                    {
+                      "name": "4.2.1 Act 4 Scavenger Hunt Questions",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "4.1.1 Comprehension Check",
                       "earned": 100.0,
@@ -80337,7 +80347,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8701,
+              "weightedPct": 0.8811,
               "letterGrade": "B"
             },
             {
@@ -80645,7 +80655,7 @@
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
                   "earned": 618.0,
-                  "possible": 625.0,
+                  "possible": 700.0,
                   "assignments": [
                     {
                       "name": "Performing Arts Concert Attendance",
@@ -80680,7 +80690,7 @@
                       "possible": 75,
                       "due": "05/11/2026",
                       "active": true,
-                      "missing": false,
+                      "missing": true,
                       "incomplete": false
                     },
                     {
@@ -81098,11 +81108,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9326,
-              "letterGrade": "A"
+              "weightedPct": 0.8738,
+              "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-05-12T09:00"
+          "fetchedAt": "2026-05-12T16:30"
         }
       },
       "shortNames": {
@@ -168088,13 +168098,13 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 225.0,
-                  "possible": 283.0,
+                  "earned": 269.0,
+                  "possible": 341.0,
                   "assignments": [
                     {
                       "name": "Night Test",
-                      "earned": null,
-                      "possible": 38,
+                      "earned": 44.0,
+                      "possible": 58,
                       "due": "05/13/2026",
                       "active": true,
                       "missing": false,
@@ -168310,7 +168320,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8062,
+              "weightedPct": 0.8024,
               "letterGrade": "B"
             },
             {
@@ -169053,12 +169063,21 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 60.0,
-                  "earned": 128.91,
-                  "possible": 170.0,
+                  "earned": 152.71,
+                  "possible": 200.0,
                   "assignments": [
                     {
+                      "name": "L29/30 Quiz iready CC",
+                      "earned": 8.8,
+                      "possible": 10,
+                      "due": "05/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Unit 6 Exam (paper)",
-                      "earned": null,
+                      "earned": 15.0,
                       "possible": 20,
                       "due": "05/05/2026",
                       "active": true,
@@ -169411,11 +169430,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7294,
+              "weightedPct": 0.7326,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-12T09:00"
+          "fetchedAt": "2026-05-12T16:30"
         }
       },
       "shortNames": {
