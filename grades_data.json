@@ -82101,12 +82101,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 713.0,
-                  "possible": 800.0,
+                  "earned": 795.0,
+                  "possible": 900.0,
                   "assignments": [
                     {
                       "name": "4.2.1 Act 4 Scavenger Hunt Questions",
-                      "earned": null,
+                      "earned": 82.0,
                       "possible": 100,
                       "due": "05/12/2026",
                       "active": true,
@@ -82205,7 +82205,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8811,
+              "weightedPct": 0.8775,
               "letterGrade": "B"
             },
             {
@@ -82970,7 +82970,7 @@
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-05-13T09:00"
+          "fetchedAt": "2026-05-13T16:30"
         }
       },
       "shortNames": {
@@ -172265,15 +172265,6 @@
                       "incomplete": false
                     },
                     {
-                      "name": "Unit 7 Written Response",
-                      "earned": null,
-                      "possible": 15,
-                      "due": "04/25/2026",
-                      "active": true,
-                      "missing": false,
-                      "incomplete": false
-                    },
-                    {
                       "name": "Unit 7 Exam",
                       "earned": 84.0,
                       "possible": 100,
@@ -172368,12 +172359,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 570.0,
-                  "possible": 791.0,
+                  "earned": 591.0,
+                  "possible": 815.0,
                   "assignments": [
                     {
                       "name": "Warm Ups #6 (Apr 23-May8)",
-                      "earned": null,
+                      "earned": 21.0,
                       "possible": 24,
                       "due": "05/09/2026",
                       "active": true,
@@ -172635,7 +172626,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8238,
+              "weightedPct": 0.8256,
               "letterGrade": "B"
             },
             {
@@ -173356,7 +173347,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-13T09:00"
+          "fetchedAt": "2026-05-13T16:30"
         }
       },
       "shortNames": {
