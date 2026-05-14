@@ -83833,6 +83833,15 @@
                   "possible": 1100.0,
                   "assignments": [
                     {
+                      "name": "4.2 Summative (CUA)",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "4.2 Summative Check",
                       "earned": 96.0,
                       "possible": 100,
@@ -83960,17 +83969,27 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 795.0,
+                  "earned": 809.0,
                   "possible": 900.0,
                   "assignments": [
                     {
+                      "name": "4.2.2 R&J Debate",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "05/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "4.2.1 Act 4 Scavenger Hunt Questions",
-                      "earned": 82.0,
+                      "earned": 96.0,
                       "possible": 100,
                       "due": "05/12/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "original score: 82"
                     },
                     {
                       "name": "4.1.1 Comprehension Check",
@@ -84064,7 +84083,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8819,
+              "weightedPct": 0.8889,
               "letterGrade": "B"
             },
             {
@@ -84371,8 +84390,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 618.0,
-                  "possible": 800.0,
+                  "earned": 664.0,
+                  "possible": 850.0,
                   "assignments": [
                     {
                       "name": "Performing Arts Concert Attendance",
@@ -84394,7 +84413,7 @@
                     },
                     {
                       "name": "4Q Music Theory Assessment",
-                      "earned": null,
+                      "earned": 46.0,
                       "possible": 50,
                       "due": "05/11/2026",
                       "active": true,
@@ -84825,11 +84844,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8125,
+              "weightedPct": 0.8173,
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-05-14T09:00"
+          "fetchedAt": "2026-05-14T16:30"
         }
       },
       "shortNames": {
@@ -176273,9 +176292,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 591.0,
-                  "possible": 815.0,
+                  "earned": 647.0,
+                  "possible": 850.0,
                   "assignments": [
+                    {
+                      "name": "9/11 Read/Response",
+                      "earned": 35.0,
+                      "possible": 35,
+                      "due": "05/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Warm Ups #6 (Apr 23-May8)",
                       "earned": 21.0,
@@ -176314,11 +176342,11 @@
                     },
                     {
                       "name": "Warm Ups #5 (April 7-20)",
-                      "earned": null,
+                      "earned": 21.0,
                       "possible": 24,
                       "due": "04/21/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -176540,7 +176568,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8256,
+              "weightedPct": 0.84,
               "letterGrade": "B"
             },
             {
@@ -176640,12 +176668,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 64.0,
-                  "possible": 84.0,
+                  "earned": 95.0,
+                  "possible": 124.0,
                   "assignments": [
                     {
                       "name": "OSE Natural Selection & Adaptations Lesson 3",
-                      "earned": null,
+                      "earned": 5.0,
                       "possible": 5,
                       "due": "05/05/2026",
                       "active": true,
@@ -176654,7 +176682,7 @@
                     },
                     {
                       "name": "OSE Natural Selection & Adaptations Lesson 2.2A",
-                      "earned": null,
+                      "earned": 5.0,
                       "possible": 5,
                       "due": "04/30/2026",
                       "active": true,
@@ -176663,7 +176691,7 @@
                     },
                     {
                       "name": "OSE Natural Selection & Adaptations Lesson 2.1 ",
-                      "earned": null,
+                      "earned": 5.0,
                       "possible": 5,
                       "due": "04/28/2026",
                       "active": true,
@@ -176672,7 +176700,7 @@
                     },
                     {
                       "name": "David Attenborough's Galapagos Episode 3",
-                      "earned": null,
+                      "earned": 0.0,
                       "possible": 5,
                       "due": "04/25/2026",
                       "active": true,
@@ -176681,16 +176709,16 @@
                     },
                     {
                       "name": "OSE Natural Selection & Adaptations Lesson 1",
-                      "earned": null,
+                      "earned": 1.0,
                       "possible": 5,
                       "due": "04/23/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": true
                     },
                     {
                       "name": "OSE Genetics - Lesson 5 -  Where do the babies wit",
-                      "earned": null,
+                      "earned": 5.0,
                       "possible": 5,
                       "due": "04/14/2026",
                       "active": true,
@@ -176699,7 +176727,7 @@
                     },
                     {
                       "name": "OSE Genetics - Lesson 6.1 -  How do the extra-larg",
-                      "earned": null,
+                      "earned": 5.0,
                       "possible": 5,
                       "due": "04/14/2026",
                       "active": true,
@@ -176708,7 +176736,7 @@
                     },
                     {
                       "name": "Pigeonetics - Genetics/Heredity Review Doc",
-                      "earned": null,
+                      "earned": 5.0,
                       "possible": 5,
                       "due": "04/11/2026",
                       "active": true,
@@ -176880,7 +176908,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7093,
+              "weightedPct": 0.711,
               "letterGrade": "C"
             },
             {
@@ -177011,9 +177039,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 139.3,
-                  "possible": 203.0,
+                  "earned": 149.3,
+                  "possible": 213.0,
                   "assignments": [
+                    {
+                      "name": "L31/32 Quiz as Review iready",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "05/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "TA Practice Finding Volume",
                       "earned": 1.3,
@@ -177257,11 +177294,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7326,
+              "weightedPct": 0.7385,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-14T09:00"
+          "fetchedAt": "2026-05-14T16:30"
         }
       },
       "shortNames": {
