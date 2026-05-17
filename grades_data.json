@@ -89121,8 +89121,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 189.7,
-                  "possible": 260.0,
+                  "earned": 198.7,
+                  "possible": 270.0,
                   "assignments": [
                     {
                       "name": "Fragmentation and variation summary assignment",
@@ -89153,20 +89153,21 @@
                     },
                     {
                       "name": "Fragmentation Investigation",
-                      "earned": null,
+                      "earned": 0.0,
                       "possible": 10,
                       "due": "04/28/2026",
                       "active": true,
-                      "missing": true,
-                      "incomplete": false
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "All I got was a graph and a document I could not open.  Let me see it and I can change this grade."
                     },
                     {
                       "name": "Hardy-Weinberg practice",
-                      "earned": null,
+                      "earned": 0.0,
                       "possible": 10,
                       "due": "04/21/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -89243,11 +89244,11 @@
                     },
                     {
                       "name": "Rat Poison Explanation",
-                      "earned": null,
+                      "earned": 0.0,
                       "possible": 10,
                       "due": "04/02/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -89261,7 +89262,7 @@
                     },
                     {
                       "name": "Rat model investigation",
-                      "earned": null,
+                      "earned": 9.0,
                       "possible": 10,
                       "due": "03/31/2026",
                       "active": true,
@@ -89279,11 +89280,11 @@
                     },
                     {
                       "name": "Common garden experiment",
-                      "earned": null,
+                      "earned": 0.0,
                       "possible": 10,
                       "due": "03/24/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -89498,7 +89499,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7744,
+              "weightedPct": 0.7766,
               "letterGrade": "C"
             },
             {
@@ -90527,7 +90528,7 @@
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-05-17T09:00"
+          "fetchedAt": "2026-05-17T16:30"
         }
       },
       "shortNames": {
@@ -189368,7 +189369,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-17T09:00"
+          "fetchedAt": "2026-05-17T16:30"
         }
       },
       "shortNames": {
