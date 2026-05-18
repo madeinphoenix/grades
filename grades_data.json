@@ -92443,7 +92443,7 @@
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-05-18T09:00"
+          "fetchedAt": "2026-05-18T16:30"
         }
       },
       "shortNames": {
@@ -193081,6 +193081,15 @@
                   "possible": 225.0,
                   "assignments": [
                     {
+                      "name": "2nd Semester Final",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "05/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "CUA 7 Scatter Plots and 2 way tables",
                       "earned": 17.25,
                       "possible": 25,
@@ -193207,9 +193216,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 149.3,
-                  "possible": 213.0,
+                  "earned": 154.3,
+                  "possible": 223.0,
                   "assignments": [
+                    {
+                      "name": "TA Practice Interpreting and Analyzing Two-Way Tab",
+                      "earned": 5.0,
+                      "possible": 10,
+                      "due": "05/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "L31/32 Quiz as Review iready",
                       "earned": 10.0,
@@ -193462,11 +193480,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7336,
+              "weightedPct": 0.7299,
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-05-18T09:00"
+          "fetchedAt": "2026-05-18T16:30"
         }
       },
       "shortNames": {
