@@ -168910,6 +168910,53 @@
             }
           ],
           "fetchedAt": "2026-07-22T09:00"
+        },
+        "2026-07-23": {
+          "courses": [
+            {
+              "name": "ADVANCED SPORTS TRAINING",
+              "teacher": "Blackburn, M",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "AP SEMINAR",
+              "teacher": "Wallis, S",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "AP WORLD HISTORY",
+              "teacher": "Spencer, N",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "CERAMICS I",
+              "teacher": "Kreutz, N",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "HONORS ALGEBRA II",
+              "teacher": "Miller, M",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "WIND ENSEMBLE",
+              "teacher": "Kozacek, M",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            }
+          ],
+          "fetchedAt": "2026-07-23T09:00"
         }
       },
       "shortNames": {
@@ -355005,6 +355052,53 @@
             }
           ],
           "fetchedAt": "2026-07-22T09:00"
+        },
+        "2026-07-23": {
+          "courses": [
+            {
+              "name": "ALGEBRA I",
+              "teacher": "Edam, E",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "CONCERT BAND I",
+              "teacher": "Kozacek, M",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "CONCERT CHOIR",
+              "teacher": "Griggs, E",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "EARLY CHILDHOOD-CHILD DEVELOP",
+              "teacher": "Resh, H",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "HONORS BIOLOGY",
+              "teacher": "Dubas, D",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            },
+            {
+              "name": "HONORS ENGLISH I",
+              "teacher": "Wallis, S",
+              "categories": [],
+              "weightedPct": null,
+              "letterGrade": "\u2014"
+            }
+          ],
+          "fetchedAt": "2026-07-23T09:00"
         }
       },
       "shortNames": {
