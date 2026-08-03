@@ -173088,7 +173088,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-03T09:00"
+          "fetchedAt": "2026-08-03T16:30"
         }
       },
       "shortNames": {
@@ -359951,7 +359951,7 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 10.0,
+                  "earned": 19.0,
                   "possible": 20.0,
                   "assignments": [
                     {
@@ -360271,11 +360271,11 @@
                     },
                     {
                       "name": "Syllabus/Handbook Approval Form",
-                      "earned": null,
+                      "earned": 9.0,
                       "possible": 10,
                       "due": "08/03/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -360290,8 +360290,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.5,
-              "letterGrade": "F"
+              "weightedPct": 0.95,
+              "letterGrade": "A"
             },
             {
               "name": "CONCERT CHOIR",
@@ -360349,7 +360349,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-03T09:00"
+          "fetchedAt": "2026-08-03T16:30"
         }
       },
       "shortNames": {
