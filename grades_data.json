@@ -173663,7 +173663,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-04T09:00"
+          "fetchedAt": "2026-08-04T16:30"
         }
       },
       "shortNames": {
@@ -361523,7 +361523,7 @@
                   "assignments": [
                     {
                       "name": "CUA Pretest",
-                      "earned": null,
+                      "earned": 64.0,
                       "possible": 100,
                       "due": "08/01/2026",
                       "active": false,
@@ -361537,7 +361537,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-04T09:00"
+          "fetchedAt": "2026-08-04T16:30"
         }
       },
       "shortNames": {
