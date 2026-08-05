@@ -173745,7 +173745,25 @@
             {
               "name": "AP SEMINAR",
               "teacher": "Wallis, S",
-              "categories": [],
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "EOC Part A (Pre-assess)",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "08/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
               "weightedPct": null,
               "letterGrade": "\u2014"
             },
@@ -173756,32 +173774,33 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 0.0,
-                  "possible": 0.0,
+                  "earned": 8.0,
+                  "possible": 10.0,
                   "assignments": [
                     {
-                      "name": "Algebra Skills Practice (Not For Grade)",
-                      "earned": null,
-                      "possible": 0,
-                      "due": "08/04/2026",
-                      "active": false,
+                      "name": "1.01 Lesson Check (Function Composition)",
+                      "earned": 8.0,
+                      "possible": 10,
+                      "due": "08/05/2026",
+                      "active": true,
                       "missing": false,
                       "incomplete": false
                     },
                     {
                       "name": "HMH Growth Measure BOY (Not For Grade) ",
-                      "earned": null,
+                      "earned": 10.8,
                       "possible": 0,
                       "due": "08/01/2026",
                       "active": false,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "Students have until Friday to finish. They can complete at home or anytime through HMH. The score I have inputted is the grade level the Growth Measure has leveled them at. Our goal is to improve by 1 year to 1.5 years by the end of the school year."
                     }
                   ]
                 }
               ],
-              "weightedPct": null,
-              "letterGrade": "\u2014"
+              "weightedPct": 0.8,
+              "letterGrade": "B"
             },
             {
               "name": "WIND ENSEMBLE",
@@ -174238,7 +174257,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-05T09:00"
+          "fetchedAt": "2026-08-05T16:30"
         }
       },
       "shortNames": {
@@ -362661,9 +362680,27 @@
             {
               "name": "EARLY CHILDHOOD-CHILD DEVELOP",
               "teacher": "Resh, H",
-              "categories": [],
-              "weightedPct": null,
-              "letterGrade": "\u2014"
+              "categories": [
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 10.0,
+                  "possible": 10.0,
+                  "assignments": [
+                    {
+                      "name": "7/31 Reflection",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 1.0,
+              "letterGrade": "A"
             },
             {
               "name": "HONORS BIOLOGY",
@@ -362725,7 +362762,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-05T09:00"
+          "fetchedAt": "2026-08-05T16:30"
         }
       },
       "shortNames": {
