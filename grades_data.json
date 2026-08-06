@@ -174332,7 +174332,43 @@
             {
               "name": "AP PSYCHOLOGY",
               "teacher": "Zona, J",
-              "categories": [],
+              "categories": [
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 0 History/Statistical Methods Formative",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 0 Statistical Methods: Energy Drinks",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 0 Research Measure Up",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/06/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
               "weightedPct": null,
               "letterGrade": "\u2014"
             },
@@ -174846,12 +174882,30 @@
             {
               "name": "WORLD HISTORY & GEOGRAPHY",
               "teacher": "Ragsdale, R",
-              "categories": [],
+              "categories": [
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "1.1 Formative Check",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
               "weightedPct": null,
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-06T09:00"
+          "fetchedAt": "2026-08-06T16:30"
         }
       },
       "shortNames": {
@@ -363937,9 +363991,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 10.0,
-                  "possible": 10.0,
+                  "earned": 20.0,
+                  "possible": 20.0,
                   "assignments": [
+                    {
+                      "name": "All About Me Onesie",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "7/31 Reflection",
                       "earned": 10.0,
@@ -364015,7 +364078,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-06T09:00"
+          "fetchedAt": "2026-08-06T16:30"
         }
       },
       "shortNames": {
