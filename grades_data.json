@@ -174984,12 +174984,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 0.0,
-                  "possible": 0.0,
+                  "earned": 8.0,
+                  "possible": 10.0,
                   "assignments": [
                     {
                       "name": "Unit 0 History/Statistical Methods Formative",
-                      "earned": null,
+                      "earned": 8.0,
                       "possible": 10,
                       "due": "08/08/2026",
                       "active": true,
@@ -175017,8 +175017,8 @@
                   ]
                 }
               ],
-              "weightedPct": null,
-              "letterGrade": "\u2014"
+              "weightedPct": 0.8,
+              "letterGrade": "B"
             },
             {
               "name": "AP SEMINAR",
@@ -175534,12 +175534,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 0.0,
-                  "possible": 0.0,
+                  "earned": 10.0,
+                  "possible": 10.0,
                   "assignments": [
                     {
                       "name": "U1 Civilization Map",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "08/08/2026",
                       "active": true,
@@ -175549,11 +175549,11 @@
                   ]
                 }
               ],
-              "weightedPct": null,
-              "letterGrade": "\u2014"
+              "weightedPct": 1.0,
+              "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-08-07T09:00"
+          "fetchedAt": "2026-08-07T16:30"
         }
       },
       "shortNames": {
@@ -364741,6 +364741,15 @@
                   "possible": 10.0,
                   "assignments": [
                     {
+                      "name": "1.2 Practice Worksheet",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Module 1 Review Worksheet",
                       "earned": null,
                       "possible": 0,
@@ -364753,15 +364762,6 @@
                       "name": "1.2 Formative Check",
                       "earned": null,
                       "possible": 10,
-                      "due": "08/08/2026",
-                      "active": true,
-                      "missing": false,
-                      "incomplete": false
-                    },
-                    {
-                      "name": "1.2 Practice Worksheet",
-                      "earned": null,
-                      "possible": 0,
                       "due": "08/08/2026",
                       "active": true,
                       "missing": false,
@@ -365394,7 +365394,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-07T09:00"
+          "fetchedAt": "2026-08-07T16:30"
         }
       },
       "shortNames": {
