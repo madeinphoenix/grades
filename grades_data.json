@@ -177009,6 +177009,15 @@
                   "possible": 20.0,
                   "assignments": [
                     {
+                      "name": "1.04 Lesson Check (Average Rate of Change)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "1.02-1.03 Lesson Check (Key Features)",
                       "earned": 6.7,
                       "possible": 10,
@@ -177147,8 +177156,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 29.0,
-                  "possible": 40.0,
+                  "earned": 119.0,
+                  "possible": 120.0,
                   "assignments": [
                     {
                       "name": "Gatsbi Week 19",
@@ -177305,7 +177314,7 @@
                     },
                     {
                       "name": "Practice Record Week of 9/22",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "10/05/2026",
                       "active": true,
@@ -177323,7 +177332,7 @@
                     },
                     {
                       "name": "Practice Record Week of 9/15",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "09/28/2026",
                       "active": true,
@@ -177341,7 +177350,7 @@
                     },
                     {
                       "name": "Practice Record Week of 9/8",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "09/21/2026",
                       "active": true,
@@ -177359,7 +177368,7 @@
                     },
                     {
                       "name": "Practice Record Week of 9/1",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "09/14/2026",
                       "active": true,
@@ -177377,7 +177386,7 @@
                     },
                     {
                       "name": "Practice Record Week of 8/25",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "09/07/2026",
                       "active": true,
@@ -177395,7 +177404,7 @@
                     },
                     {
                       "name": "Practice Record Week of 8/18",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "08/31/2026",
                       "active": true,
@@ -177413,7 +177422,7 @@
                     },
                     {
                       "name": "Practice Record Week of 8/11",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "08/24/2026",
                       "active": true,
@@ -177431,7 +177440,7 @@
                     },
                     {
                       "name": "Practice Record Week of 8/4",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "08/17/2026",
                       "active": true,
@@ -177449,11 +177458,11 @@
                     },
                     {
                       "name": "Practice Record Week 1",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "08/10/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -177486,8 +177495,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.725,
-              "letterGrade": "C"
+              "weightedPct": 0.9916,
+              "letterGrade": "A"
             },
             {
               "name": "WORLD HISTORY & GEOGRAPHY",
@@ -177524,7 +177533,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-08-10T09:00"
+          "fetchedAt": "2026-08-10T16:30"
         }
       },
       "shortNames": {
@@ -369557,7 +369566,7 @@
               "letterGrade": "\u2014"
             }
           ],
-          "fetchedAt": "2026-08-10T09:00"
+          "fetchedAt": "2026-08-10T16:30"
         }
       },
       "shortNames": {
