@@ -179783,6 +179783,23 @@
                       "note": "Don't panic! Our first try is never our last- we will go over how to improve and do a redo soon :)"
                     }
                   ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "AI Policy Review + Acknowledgement",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/13/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
                 }
               ],
               "weightedPct": 0.56,
@@ -179795,12 +179812,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 18.5,
-                  "possible": 30.0,
+                  "earned": 119.6,
+                  "possible": 130.0,
                   "assignments": [
                     {
                       "name": "Unit 1 Quiz (1.01-1.05)",
-                      "earned": null,
+                      "earned": 92.0,
                       "possible": 100,
                       "due": "08/13/2026",
                       "active": true,
@@ -179809,30 +179826,33 @@
                     },
                     {
                       "name": "1.04 Lesson Check (Average Rate of Change)",
-                      "earned": 3.8,
+                      "earned": 9.2,
                       "possible": 10,
                       "due": "08/11/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "Original Score: 3.8\nReplaced by Unit 1 Quiz"
                     },
                     {
                       "name": "1.02-1.03 Lesson Check (Key Features)",
-                      "earned": 6.7,
+                      "earned": 9.2,
                       "possible": 10,
                       "due": "08/08/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "Original Score: 6.7\nReplaced by Unit 1 Quiz"
                     },
                     {
                       "name": "1.01 Lesson Check (Function Composition)",
-                      "earned": 8.0,
+                      "earned": 9.2,
                       "possible": 10,
                       "due": "08/05/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "Original Score: 8\nReplaced by Unit 1 Quiz"
                     },
                     {
                       "name": "HMH Growth Measure BOY (Not For Grade) ",
@@ -179847,8 +179867,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.6166,
-              "letterGrade": "D"
+              "weightedPct": 0.92,
+              "letterGrade": "A"
             },
             {
               "name": "WIND ENSEMBLE",
@@ -180350,7 +180370,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-08-14T09:00"
+          "fetchedAt": "2026-08-14T16:30"
         }
       },
       "shortNames": {
@@ -375044,6 +375064,24 @@
                   "possible": 40.0,
                   "assignments": [
                     {
+                      "name": "Unit 1 Formative Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "08/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Mid Unit 1 Worksheet",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/14/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
                       "name": "2.2 Formative Check",
                       "earned": 10.0,
                       "possible": 10,
@@ -375058,7 +375096,7 @@
                       "possible": 0,
                       "due": "08/13/2026",
                       "active": true,
-                      "missing": false,
+                      "missing": true,
                       "incomplete": false
                     },
                     {
@@ -375938,7 +375976,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-08-14T09:00"
+          "fetchedAt": "2026-08-14T16:30"
         }
       },
       "shortNames": {
