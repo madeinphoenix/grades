@@ -181946,9 +181946,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 8.0,
-                  "possible": 10.0,
+                  "earned": 18.0,
+                  "possible": 20.0,
                   "assignments": [
+                    {
+                      "name": "Unit 0 Note Cards (40)",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Unit 0 History/Statistical Methods Formative",
                       "earned": 8.0,
@@ -181979,7 +181988,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8333,
+              "weightedPct": 0.8777,
               "letterGrade": "B"
             },
             {
@@ -182590,7 +182599,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-08-17T09:00"
+          "fetchedAt": "2026-08-17T16:30"
         }
       },
       "shortNames": {
@@ -380664,6 +380673,15 @@
                   "possible": 0.0,
                   "assignments": [
                     {
+                      "name": "Sight-singing Quiz #1",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "08/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Handbook Forms",
                       "earned": null,
                       "possible": 0,
@@ -381048,7 +381066,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-08-17T09:00"
+          "fetchedAt": "2026-08-17T16:30"
         }
       },
       "shortNames": {
