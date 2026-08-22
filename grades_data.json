@@ -186542,7 +186542,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-08-22T09:03"
+          "fetchedAt": "2026-08-22T16:30"
         }
       },
       "shortNames": {
@@ -390193,23 +390193,14 @@
                       "active": false,
                       "missing": false,
                       "incomplete": false
-                    },
-                    {
-                      "name": "What are cells and why do they matter",
-                      "earned": null,
-                      "possible": 10,
-                      "due": "08/11/2026",
-                      "active": true,
-                      "missing": false,
-                      "incomplete": false
                     }
                   ]
                 },
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 28.5,
-                  "possible": 30.0,
+                  "earned": 37.5,
+                  "possible": 40.0,
                   "assignments": [
                     {
                       "name": "Hierarchy of life and what is alive",
@@ -390226,6 +390217,15 @@
                       "possible": 0,
                       "due": "08/11/2026",
                       "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "What are cells and why do they matter",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "08/11/2026",
+                      "active": true,
                       "missing": false,
                       "incomplete": false
                     },
@@ -390259,7 +390259,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.95,
+              "weightedPct": 0.9375,
               "letterGrade": "A"
             },
             {
@@ -390323,7 +390323,7 @@
               "letterGrade": "F"
             }
           ],
-          "fetchedAt": "2026-08-22T09:03"
+          "fetchedAt": "2026-08-22T16:30"
         }
       },
       "shortNames": {
