@@ -188332,17 +188332,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 100.0,
-                  "possible": 100.0,
+                  "earned": 190.0,
+                  "possible": 200.0,
                   "assignments": [
                     {
                       "name": "TMP Speaking Practice: Powerpoint Karaoke",
-                      "earned": null,
+                      "earned": 90.0,
                       "possible": 100,
                       "due": "08/22/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "Good job! Work on: fidgeting (especially with hair, I do the same thing) and more consistent eye contact"
                     },
                     {
                       "name": "EOC-A Attempt #1 Reflection & Rubric Annotation",
@@ -188365,7 +188366,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.7555,
+              "weightedPct": 0.7333,
               "letterGrade": "C"
             },
             {
@@ -188373,19 +188374,64 @@
               "teacher": "Miller, M",
               "categories": [
                 {
-                  "name": "Assignment (Formative)",
-                  "weight": 40.0,
-                  "earned": 129.1,
-                  "possible": 140.0,
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
                   "assignments": [
                     {
-                      "name": "1.07 Lesson Check (Completing the Square)",
+                      "name": "Unit 1 Summative Assessment",
                       "earned": null,
+                      "possible": 100,
+                      "due": "09/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 1 Summative Check",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "09/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 137.1,
+                  "possible": 150.0,
+                  "assignments": [
+                    {
+                      "name": "1.09 Lesson Check (Complex Operations)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.08 Lesson Check (Solving with Square Roots)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.07 Lesson Check (Completing the Square)",
+                      "earned": 8.0,
                       "possible": 10,
                       "due": "08/22/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "Lesson check will be viewable afterschool today."
                     },
                     {
                       "name": "1.06 Lesson Check (Factoring)",
@@ -188448,7 +188494,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9221,
+              "weightedPct": 0.914,
               "letterGrade": "A"
             },
             {
@@ -188969,7 +189015,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-08-25T09:00"
+          "fetchedAt": "2026-08-25T16:30"
         }
       },
       "shortNames": {
@@ -396131,7 +396177,7 @@
               "letterGrade": "F"
             }
           ],
-          "fetchedAt": "2026-08-25T09:00"
+          "fetchedAt": "2026-08-25T16:30"
         }
       },
       "shortNames": {
