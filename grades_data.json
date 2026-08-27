@@ -189874,6 +189874,899 @@
             }
           ],
           "fetchedAt": "2026-08-26T16:30"
+        },
+        "2026-08-27": {
+          "courses": [
+            {
+              "name": "ADVANCED SPORTS TRAINING",
+              "teacher": "Blackburn, M",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 50.0,
+                  "possible": 50.0,
+                  "assignments": [
+                    {
+                      "name": "ASSESSMENT (Summative) (Att/D.Prof/S.Test/Proj",
+                      "earned": 50.0,
+                      "possible": 50,
+                      "due": "12/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "MAKE UP",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "12/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 40.0,
+                  "possible": 40.0,
+                  "assignments": [
+                    {
+                      "name": "ASSIGNMENTS (D.out/Tardy/D.Prof/Disc)",
+                      "earned": 40.0,
+                      "possible": 40,
+                      "due": "12/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Final Exam",
+                  "weight": 10.0,
+                  "earned": 10.0,
+                  "possible": 10.0,
+                  "assignments": [
+                    {
+                      "name": "FINAL EXAM",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "12/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 1.0,
+              "letterGrade": "A"
+            },
+            {
+              "name": "AP PSYCHOLOGY",
+              "teacher": "Zona, J",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 8.6,
+                  "possible": 10.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 0 History/Statistical Methods Summative",
+                      "earned": 8.6,
+                      "possible": 10,
+                      "due": "08/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 18.0,
+                  "possible": 20.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 1.4 Brain Map",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 1.1 Biological Bases",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 0 Note Cards (40)",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 0 History/Statistical Methods Formative",
+                      "earned": 8.0,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 0 Statistical Methods: Energy Drinks",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 0 Research Measure Up",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/06/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.8777,
+              "letterGrade": "B"
+            },
+            {
+              "name": "AP SEMINAR",
+              "teacher": "Wallis, S",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 56.0,
+                  "possible": 100.0,
+                  "assignments": [
+                    {
+                      "name": "EOC Part A #1 (Pre-assess)",
+                      "earned": 56.0,
+                      "possible": 100,
+                      "due": "08/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Don't panic! Our first try is never our last- we will go over how to improve and do a redo soon :)"
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 190.0,
+                  "possible": 200.0,
+                  "assignments": [
+                    {
+                      "name": "TMP Speaking Practice: Powerpoint Karaoke",
+                      "earned": 90.0,
+                      "possible": 100,
+                      "due": "08/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Good job! Work on: fidgeting (especially with hair, I do the same thing) and more consistent eye contact"
+                    },
+                    {
+                      "name": "EOC-A Attempt #1 Reflection & Rubric Annotation",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "08/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "AI Policy Review + Acknowledgement",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/13/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.7333,
+              "letterGrade": "C"
+            },
+            {
+              "name": "HONORS ALGEBRA II",
+              "teacher": "Miller, M",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 1 Summative Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "09/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 1 Summative Check",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "09/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 145.1,
+                  "possible": 160.0,
+                  "assignments": [
+                    {
+                      "name": "1.09 Lesson Check (Complex Operations)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.08 Lesson Check (Solving with Square Roots)",
+                      "earned": 8.0,
+                      "possible": 10,
+                      "due": "08/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.07 Lesson Check (Completing the Square)",
+                      "earned": 8.0,
+                      "possible": 10,
+                      "due": "08/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Lesson check will be viewable afterschool today."
+                    },
+                    {
+                      "name": "1.06 Lesson Check (Factoring)",
+                      "earned": 9.5,
+                      "possible": 10,
+                      "due": "08/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 1 Quiz (1.01-1.05)",
+                      "earned": 92.0,
+                      "possible": 100,
+                      "due": "08/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.04 Lesson Check (Average Rate of Change)",
+                      "earned": 9.2,
+                      "possible": 10,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Original Score: 3.8\nReplaced by Unit 1 Quiz"
+                    },
+                    {
+                      "name": "1.02-1.03 Lesson Check (Key Features)",
+                      "earned": 9.2,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Original Score: 6.7\nReplaced by Unit 1 Quiz"
+                    },
+                    {
+                      "name": "1.01 Lesson Check (Function Composition)",
+                      "earned": 9.2,
+                      "possible": 10,
+                      "due": "08/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Original Score: 8\nReplaced by Unit 1 Quiz"
+                    },
+                    {
+                      "name": "HMH Growth Measure BOY (Not For Grade) ",
+                      "earned": 10.8,
+                      "possible": 0,
+                      "due": "08/01/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Students have until Friday to finish. They can complete at home or anytime through HMH. The score I have inputted is the grade level the Growth Measure has leveled them at. Our goal is to improve by 1 year to 1.5 years by the end of the school year."
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.9068,
+              "letterGrade": "A"
+            },
+            {
+              "name": "WIND ENSEMBLE",
+              "teacher": "Kozacek, M",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "Performing Arts Concert Attendance",
+                      "earned": null,
+                      "possible": 50,
+                      "due": "12/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2Q Etude Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "12/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2Q Music Theory Assessment",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2Q Scale Assessment",
+                      "earned": null,
+                      "possible": 15,
+                      "due": "12/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "After Concert Reflection",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "12/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Concert",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "12/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1Q Etude Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "10/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1Q Music Theory Assessment",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1Q Scale Assessment",
+                      "earned": null,
+                      "possible": 15,
+                      "due": "10/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Concert",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "09/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 139.0,
+                  "possible": 140.0,
+                  "assignments": [
+                    {
+                      "name": "Gatsbi Week 19",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 12/1",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 18",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 11/24",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 17",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 11/17",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 16",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 11/10",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 15",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 11/3",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 14",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 10/27",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 13",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 10/20",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 12",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 10/13",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 11",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 9/22",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "10/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 10",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 9/15",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "09/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 9",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 9/8",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "09/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 8",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 9/1",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "09/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 7",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 8/25",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "09/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 6",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 8/18",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 5",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 8/11",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 4",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 8/4",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 3",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 1",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 2",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Syllabus/Handbook Approval Form",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "08/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 1",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.9928,
+              "letterGrade": "A"
+            },
+            {
+              "name": "WORLD HISTORY & GEOGRAPHY",
+              "teacher": "Ragsdale, R",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 1 Summative Check",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "08/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 59.0,
+                  "possible": 60.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 1 Retrieval Guide",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "U1 - C&C Greece and Rome",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "U1 - Greece/Belief Systems Formative Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "U1 - Belief Systems Chart",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "U1 - CH. 1-2 Early History Mini-Test",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "08/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "U1 - 1.1 Civilization Formative Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "U1 - Ch1 Civilization Map",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.9833,
+              "letterGrade": "A"
+            }
+          ],
+          "fetchedAt": "2026-08-27T16:30"
         }
       },
       "shortNames": {
@@ -398214,6 +399107,1260 @@
             }
           ],
           "fetchedAt": "2026-08-26T16:30"
+        },
+        "2026-08-27": {
+          "courses": [
+            {
+              "name": "ALGEBRA I",
+              "teacher": "Edam, E",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 89.0,
+                  "possible": 100.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 1 Summative Check",
+                      "earned": 89.0,
+                      "possible": 100,
+                      "due": "08/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 149.0,
+                  "possible": 160.0,
+                  "assignments": [
+                    {
+                      "name": "Unit 1 Review Worksheet",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.4 Formative Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.4 HMH Practice",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.3 Formative Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.3 HMH Practice",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Module 1 Practice #2 Worksheet",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 1 Formative Assessment",
+                      "earned": 89.0,
+                      "possible": 100,
+                      "due": "08/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "73 replaced by summative check"
+                    },
+                    {
+                      "name": "Mid Unit 1 Worksheet",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/14/2026",
+                      "active": true,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.2 Formative Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.2 HMH Practice",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.1 Formative Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.1 HMH Practice",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.2 Practice Worksheet",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Module 1 Review Worksheet",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.2 Formative Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.1 Formative Check",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.1 HMH Practice",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Growth Mindset Graphic Organizer",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "District Growth Measure Test",
+                      "earned": 8.2,
+                      "possible": 15,
+                      "due": "08/04/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Scaled grade level score to reflect the data from the Beginning of Year HMH growth Measure."
+                    },
+                    {
+                      "name": "Goal Setting Sheet",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Mathematical Autobiography",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.9083,
+              "letterGrade": "A"
+            },
+            {
+              "name": "CONCERT BAND I",
+              "teacher": "Kozacek, M",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 0.0,
+                  "possible": 0.0,
+                  "assignments": [
+                    {
+                      "name": "Performing Arts Concert Attendance",
+                      "earned": null,
+                      "possible": 50,
+                      "due": "12/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2Q Etude Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "12/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2Q Music Theory Assessment",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2Q Scale Assessment",
+                      "earned": null,
+                      "possible": 15,
+                      "due": "12/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "After Concert Reflection",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "12/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Concert",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "12/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1Q Etude Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "10/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1Q Music Theory Assessment",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1Q Scale Assessment",
+                      "earned": null,
+                      "possible": 15,
+                      "due": "10/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Concert",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "09/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 75.75,
+                  "possible": 80.0,
+                  "assignments": [
+                    {
+                      "name": "Gatsbi Week 19",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 12/1",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 18",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 11/24",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 17",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "12/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 11/17",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 16",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 11/10",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 15",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 11/3",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 14",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 10/27",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/09/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 13",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 10/20",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "11/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 12",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 10/13",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 11",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 9/22",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 10",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "10/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 9/15",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/28/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 9",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 9/8",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 8",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/19/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 9/1",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 7",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 8/25",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 6",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 8/18",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 5",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 8/11",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 4",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week of 8/4",
+                      "earned": 9.25,
+                      "possible": 10,
+                      "due": "08/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 3",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Practice Record Week 1",
+                      "earned": 7.5,
+                      "possible": 10,
+                      "due": "08/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 2",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Syllabus/Handbook Approval Form",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "08/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Gatsbi Week 1",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.9468,
+              "letterGrade": "A"
+            },
+            {
+              "name": "CONCERT CHOIR",
+              "teacher": "Griggs, E",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 37.0,
+                  "possible": 50.0,
+                  "assignments": [
+                    {
+                      "name": "Music Theory Quiz #1",
+                      "earned": 21.0,
+                      "possible": 25,
+                      "due": "08/21/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Concepts to work on: Solfege & Key Signature"
+                    },
+                    {
+                      "name": "Sight-singing Quiz #1",
+                      "earned": 16.0,
+                      "possible": 25,
+                      "due": "08/14/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Handbook Forms",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/04/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 95.0,
+                  "possible": 95.0,
+                  "assignments": [
+                    {
+                      "name": "Rehearsal Skills 1.18",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "12/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.17",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "12/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.16",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "11/24/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.15",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "11/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.14",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "11/10/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.13",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "11/03/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.12",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "10/27/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.11",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "10/20/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.10",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "09/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.9",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "09/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.8",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "09/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.7",
+                      "earned": null,
+                      "possible": 20,
+                      "due": "09/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.6",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "09/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.5",
+                      "earned": null,
+                      "possible": 25,
+                      "due": "08/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.4",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "08/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.3",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.2",
+                      "earned": 25.0,
+                      "possible": 25,
+                      "due": "08/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Rehearsal Skills 1.1",
+                      "earned": 20.0,
+                      "possible": 20,
+                      "due": "07/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.8555,
+              "letterGrade": "B"
+            },
+            {
+              "name": "EARLY CHILDHOOD-CHILD DEVELOP",
+              "teacher": "Resh, H",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 130.0,
+                  "possible": 130.0,
+                  "assignments": [
+                    {
+                      "name": "Piaget Comic Strip",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Areas of Development Assessment",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "08/17/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Maslow Hierarchy",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/13/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "PEIS - Areas of Development ",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/05/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 60.0,
+                  "possible": 60.0,
+                  "assignments": [
+                    {
+                      "name": "Professional Skills Reading worksheets",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Weekly Reflection",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Scenario Annotation A of D",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Completed with partners"
+                    },
+                    {
+                      "name": "8/7 Reflection",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/08/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "All About Me Onesie",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/07/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "7/31 Reflection",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 1.0,
+              "letterGrade": "A"
+            },
+            {
+              "name": "HONORS BIOLOGY",
+              "teacher": "Dubas, D",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 57.0,
+                  "possible": 100.0,
+                  "assignments": [
+                    {
+                      "name": "Sea Urchin Lab",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "08/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Homeostasis Common Unit Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "08/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Homeostasis unit check",
+                      "earned": 57.0,
+                      "possible": 100,
+                      "due": "08/22/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Cell structure and function",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/11/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 37.5,
+                  "possible": 50.0,
+                  "assignments": [
+                    {
+                      "name": "Membrane Transport and Homeostasis",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "So Why DID the Runner Collapse",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Enzyme Meltdown Comicstrip",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "08/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Structure + Funsction",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/18/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "daily question week 8/10",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/15/2026",
+                      "active": false,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Hierarchy of life and what is alive",
+                      "earned": 9.5,
+                      "possible": 10,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Lab Safety contract",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/11/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "pH and Homeostasis",
+                      "earned": 0.0,
+                      "possible": 10,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "What are cells and why do they matter",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Daily questions week 8/3",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/08/2026",
+                      "active": false,
+                      "missing": true,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Body Systems & Feedback Loops",
+                      "earned": 9.0,
+                      "possible": 10,
+                      "due": "08/06/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Why Did the Runner Collapse",
+                      "earned": 10.0,
+                      "possible": 10,
+                      "due": "08/04/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.65,
+              "letterGrade": "D"
+            },
+            {
+              "name": "HONORS ENGLISH I",
+              "teacher": "Wallis, S",
+              "categories": [
+                {
+                  "name": "Assessment (Summative)",
+                  "weight": 50.0,
+                  "earned": 82.0,
+                  "possible": 100.0,
+                  "assignments": [
+                    {
+                      "name": "Q1 Cycle 1 Summative Check",
+                      "earned": 82.0,
+                      "possible": 100,
+                      "due": "08/26/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "CUA Pretest",
+                      "earned": 64.0,
+                      "possible": 100,
+                      "due": "08/01/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    }
+                  ]
+                },
+                {
+                  "name": "Assignment (Formative)",
+                  "weight": 40.0,
+                  "earned": 272.0,
+                  "possible": 300.0,
+                  "assignments": [
+                    {
+                      "name": "1.1.2 Liberation Article",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "08/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 81"
+                    },
+                    {
+                      "name": "1.1.5 IR Novel Check In #1",
+                      "earned": 90.0,
+                      "possible": 100,
+                      "due": "08/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 90"
+                    },
+                    {
+                      "name": "1.1.1 Characterization Practice",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "08/11/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "1.1.1 The Seventh Man Formative Check (ET)",
+                      "earned": 82.0,
+                      "possible": 100,
+                      "due": "08/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 71"
+                    }
+                  ]
+                }
+              ],
+              "weightedPct": 0.8585,
+              "letterGrade": "B"
+            }
+          ],
+          "fetchedAt": "2026-08-27T16:30"
         }
       },
       "shortNames": {
