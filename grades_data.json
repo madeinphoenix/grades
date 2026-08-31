@@ -191755,12 +191755,21 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 18.0,
-                  "possible": 20.0,
+                  "earned": 36.3,
+                  "possible": 40.0,
                   "assignments": [
                     {
+                      "name": "Unit 1.1-1.4 Formative Check",
+                      "earned": 8.3,
+                      "possible": 10,
+                      "due": "09/01/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Unit 1.4 Brain Map",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "08/28/2026",
                       "active": true,
@@ -191815,7 +191824,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8777,
+              "weightedPct": 0.8811,
               "letterGrade": "B"
             },
             {
@@ -192579,7 +192588,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-08-31T09:00"
+          "fetchedAt": "2026-08-31T16:30"
         }
       },
       "shortNames": {
@@ -404458,7 +404467,7 @@
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
                   "earned": 174.0,
-                  "possible": 200.0,
+                  "possible": 300.0,
                   "assignments": [
                     {
                       "name": "Sea Urchin Lab",
@@ -404466,7 +404475,7 @@
                       "possible": 100,
                       "due": "08/31/2026",
                       "active": true,
-                      "missing": false,
+                      "missing": true,
                       "incomplete": false
                     },
                     {
@@ -404625,8 +404634,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8166,
-              "letterGrade": "B"
+              "weightedPct": 0.6555,
+              "letterGrade": "D"
             },
             {
               "name": "HONORS ENGLISH I",
@@ -404635,12 +404644,12 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 82.0,
-                  "possible": 100.0,
+                  "earned": 159.0,
+                  "possible": 200.0,
                   "assignments": [
                     {
                       "name": "1.1 Summative (CUA)",
-                      "earned": null,
+                      "earned": 77.0,
                       "possible": 100,
                       "due": "08/29/2026",
                       "active": true,
@@ -404715,11 +404724,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8585,
+              "weightedPct": 0.8446,
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-08-31T09:00"
+          "fetchedAt": "2026-08-31T16:30"
         }
       },
       "shortNames": {
