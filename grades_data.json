@@ -199551,6 +199551,16 @@
                   "possible": 170.0,
                   "assignments": [
                     {
+                      "name": "2.01 Deltamath In-Class Practice (not graded)",
+                      "earned": 93.0,
+                      "possible": 0,
+                      "due": "09/09/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "Students were assigned practice to prepare for the upcoming unit. This percent reflects how much was completed in the class period."
+                    },
+                    {
                       "name": "1.09 Lesson Check (Complex Operations)",
                       "earned": 7.0,
                       "possible": 10,
@@ -200196,7 +200206,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-09-08T09:00"
+          "fetchedAt": "2026-09-08T16:30"
         }
       },
       "shortNames": {
@@ -423250,7 +423260,7 @@
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-09-08T09:00"
+          "fetchedAt": "2026-09-08T16:30"
         }
       },
       "shortNames": {
