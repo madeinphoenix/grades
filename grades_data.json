@@ -202475,8 +202475,8 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 156.1,
-                  "possible": 170.0,
+                  "earned": 166.1,
+                  "possible": 180.0,
                   "assignments": [
                     {
                       "name": "2.01 Deltamath In-Class Practice (not graded)",
@@ -202490,7 +202490,7 @@
                     },
                     {
                       "name": "Unit 1 Homeworks (7 HWs Due)",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "09/05/2026",
                       "active": true,
@@ -202588,7 +202588,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8803,
+              "weightedPct": 0.8823,
               "letterGrade": "B"
             },
             {
@@ -202598,8 +202598,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 0.0,
-                  "possible": 0.0,
+                  "earned": 48.0,
+                  "possible": 50.0,
                   "assignments": [
                     {
                       "name": "Performing Arts Concert Attendance",
@@ -202687,6 +202687,15 @@
                       "earned": null,
                       "possible": 100,
                       "due": "09/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Monkey Business Summative",
+                      "earned": 48.0,
+                      "possible": 50,
+                      "due": "09/12/2026",
                       "active": true,
                       "missing": false,
                       "incomplete": false
@@ -203035,7 +203044,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9937,
+              "weightedPct": 0.975,
               "letterGrade": "A"
             },
             {
@@ -203154,7 +203163,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-09-11T09:00"
+          "fetchedAt": "2026-09-11T16:30"
         }
       },
       "shortNames": {
@@ -429073,6 +429082,24 @@
                   "possible": 290.0,
                   "assignments": [
                     {
+                      "name": "4.2 Formative Check",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "4.2 HMH Practice",
+                      "earned": null,
+                      "possible": 0,
+                      "due": "09/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "4.1 Formative Check",
                       "earned": 9.0,
                       "possible": 10,
@@ -430387,9 +430414,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 272.0,
-                  "possible": 300.0,
+                  "earned": 372.0,
+                  "possible": 400.0,
                   "assignments": [
+                    {
+                      "name": "1.2.6 RL.10 Reading Comprehension Chapter 4",
+                      "earned": 100.0,
+                      "possible": 100,
+                      "due": "09/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "W.1 Claim Check (Feedback from teacher)",
                       "earned": null,
@@ -430441,11 +430477,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8446,
+              "weightedPct": 0.855,
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-09-11T09:00"
+          "fetchedAt": "2026-09-11T16:30"
         }
       },
       "shortNames": {
