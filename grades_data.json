@@ -205261,9 +205261,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 36.3,
-                  "possible": 40.0,
+                  "earned": 46.3,
+                  "possible": 50.0,
                   "assignments": [
+                    {
+                      "name": "Unit 1.1-1.4 MCQ ",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "Unit 1 Ethics",
                       "earned": null,
@@ -205293,7 +205302,7 @@
                     },
                     {
                       "name": "Unit 1.3 Motor Neurons Illustration",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "08/15/2026",
                       "active": true,
@@ -205339,7 +205348,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8811,
+              "weightedPct": 0.8893,
               "letterGrade": "B"
             },
             {
@@ -205397,9 +205406,19 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 300.0,
-                  "possible": 300.0,
+                  "earned": 390.0,
+                  "possible": 400.0,
                   "assignments": [
+                    {
+                      "name": "IRR Initial Resources Checkpoint",
+                      "earned": 90.0,
+                      "possible": 100,
+                      "due": "09/15/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "4/4 sources logged! Be sure to go back and fill out the notes section as well :)"
+                    },
                     {
                       "name": "TMP Speaking & Slides Practice: IRR Pitch",
                       "earned": 100.0,
@@ -205441,7 +205460,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.85,
+              "weightedPct": 0.8388,
               "letterGrade": "B"
             },
             {
@@ -206184,7 +206203,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-09-14T09:00"
+          "fetchedAt": "2026-09-14T16:30"
         }
       },
       "shortNames": {
@@ -437217,12 +437236,12 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 83.0,
-                  "possible": 90.0,
+                  "earned": 108.0,
+                  "possible": 115.0,
                   "assignments": [
                     {
                       "name": "Q1 Intros & Meanings",
-                      "earned": null,
+                      "earned": 25.0,
                       "possible": 25,
                       "due": "09/14/2026",
                       "active": true,
@@ -437449,7 +437468,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.9567,
+              "weightedPct": 0.9661,
               "letterGrade": "A"
             },
             {
@@ -437920,7 +437939,7 @@
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-09-14T09:00"
+          "fetchedAt": "2026-09-14T16:30"
         }
       },
       "shortNames": {
