@@ -206535,9 +206535,18 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 166.1,
-                  "possible": 180.0,
+                  "earned": 172.1,
+                  "possible": 190.0,
                   "assignments": [
+                    {
+                      "name": "2.01 Lesson Check (Key Features)",
+                      "earned": 6.0,
+                      "possible": 10,
+                      "due": "09/12/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "2.01 Deltamath In-Class Practice (not graded)",
                       "earned": 93.0,
@@ -206648,7 +206657,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8823,
+              "weightedPct": 0.8747,
               "letterGrade": "B"
             },
             {
@@ -207241,7 +207250,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-09-15T09:00"
+          "fetchedAt": "2026-09-15T16:30"
         }
       },
       "shortNames": {
@@ -440389,6 +440398,15 @@
                   "possible": 600.0,
                   "assignments": [
                     {
+                      "name": "1.2.2 Symbolism --> Theme Practice",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "09/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "1.2.7 Book Club Discussions (week 1)",
                       "earned": 80.0,
                       "possible": 100,
@@ -440471,7 +440489,7 @@
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-09-15T09:00"
+          "fetchedAt": "2026-09-15T16:30"
         }
       },
       "shortNames": {
