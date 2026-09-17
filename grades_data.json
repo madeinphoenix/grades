@@ -208393,12 +208393,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 46.3,
-                  "possible": 50.0,
+                  "earned": 54.3,
+                  "possible": 60.0,
                   "assignments": [
                     {
                       "name": "Unit 1.1-1.4 MCQ ",
-                      "earned": null,
+                      "earned": 8.0,
                       "possible": 10,
                       "due": "09/15/2026",
                       "active": true,
@@ -208480,7 +208480,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8893,
+              "weightedPct": 0.88,
               "letterGrade": "B"
             },
             {
@@ -208606,6 +208606,24 @@
                   "possible": 200.0,
                   "assignments": [
                     {
+                      "name": "Unit 2 Summative Assessment",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "10/02/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "Unit 2 Summative Check",
+                      "earned": null,
+                      "possible": 100,
+                      "due": "09/29/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Unit 1 Summative Assessment",
                       "earned": 80.0,
                       "possible": 100,
@@ -208632,6 +208650,42 @@
                   "earned": 172.1,
                   "possible": 190.0,
                   "assignments": [
+                    {
+                      "name": "2.05 Lesson Check (Solve Polynomials)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/25/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.04 Lesson Check (Remainder Theorem)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/23/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.03 Lesson Check (Polynomial Operations)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/18/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
+                      "name": "2.02 Lesson Check (Sketch Polynomials)",
+                      "earned": null,
+                      "possible": 10,
+                      "due": "09/16/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
                     {
                       "name": "2.01 Lesson Check (Key Features)",
                       "earned": 6.0,
@@ -209344,7 +209398,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-09-17T09:00"
+          "fetchedAt": "2026-09-17T16:30"
         }
       },
       "shortNames": {
@@ -444564,7 +444618,7 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 105.75,
+                  "earned": 114.75,
                   "possible": 120.0,
                   "assignments": [
                     {
@@ -444794,11 +444848,11 @@
                     },
                     {
                       "name": "Practice Record Week of 8/25",
-                      "earned": null,
+                      "earned": 9.0,
                       "possible": 10,
                       "due": "09/07/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -444903,8 +444957,8 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8812,
-              "letterGrade": "B"
+              "weightedPct": 0.9562,
+              "letterGrade": "A"
             },
             {
               "name": "CONCERT CHOIR",
@@ -445625,7 +445679,7 @@
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-09-17T09:00"
+          "fetchedAt": "2026-09-17T16:30"
         }
       },
       "shortNames": {
