@@ -213507,7 +213507,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-09-22T09:00"
+          "fetchedAt": "2026-09-22T16:30"
         }
       },
       "shortNames": {
@@ -454545,6 +454545,15 @@
                   "possible": 320.0,
                   "assignments": [
                     {
+                      "name": "Unit 2 Notes Packet",
+                      "earned": null,
+                      "possible": 14,
+                      "due": "10/02/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "Unit 2 Review Worksheet",
                       "earned": null,
                       "possible": 0,
@@ -456119,7 +456128,7 @@
               "letterGrade": "C"
             }
           ],
-          "fetchedAt": "2026-09-22T09:00"
+          "fetchedAt": "2026-09-22T16:30"
         }
       },
       "shortNames": {
