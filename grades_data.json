@@ -219142,7 +219142,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-09-29T09:00"
+          "fetchedAt": "2026-09-29T16:30"
         }
       },
       "shortNames": {
@@ -473570,17 +473570,18 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 334.0,
-                  "possible": 400.0,
+                  "earned": 409.0,
+                  "possible": 500.0,
                   "assignments": [
                     {
                       "name": "Socratic Seminar: Lord of the Flies",
-                      "earned": null,
+                      "earned": 75.0,
                       "possible": 100,
                       "due": "09/29/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "1 strong comment, 1 weaker comment, no prep submitted"
                     },
                     {
                       "name": " W.1 Argument Writing Final Essay(Accountability)",
@@ -473763,11 +473764,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8945,
+              "weightedPct": 0.885,
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-09-29T09:00"
+          "fetchedAt": "2026-09-29T16:30"
         }
       },
       "shortNames": {
