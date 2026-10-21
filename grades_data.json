@@ -234519,7 +234519,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-10-21T09:00"
+          "fetchedAt": "2026-10-21T16:30"
         }
       },
       "shortNames": {
@@ -522539,8 +522539,8 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 494.0,
-                  "possible": 600.0,
+                  "earned": 562.0,
+                  "possible": 700.0,
                   "assignments": [
                     {
                       "name": "1.2 Cycle 2 Summative",
@@ -522563,7 +522563,7 @@
                     },
                     {
                       "name": " W.1 Argument Writing Final Essay(Accountability)",
-                      "earned": null,
+                      "earned": 68.0,
                       "possible": 100,
                       "due": "09/26/2026",
                       "active": true,
@@ -522587,7 +522587,8 @@
                       "due": "09/03/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "original score: 75"
                     },
                     {
                       "name": "1.1 Summative (CUA)",
@@ -522743,11 +522744,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.888,
+              "weightedPct": 0.8766,
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-10-21T09:00"
+          "fetchedAt": "2026-10-21T16:30"
         }
       },
       "shortNames": {
