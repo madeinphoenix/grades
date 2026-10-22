@@ -235324,7 +235324,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-10-22T09:00"
+          "fetchedAt": "2026-10-22T16:30"
         }
       },
       "shortNames": {
@@ -525356,6 +525356,15 @@
                   "possible": 700.0,
                   "assignments": [
                     {
+                      "name": "Q2 CUA Pretest",
+                      "earned": 62.0,
+                      "possible": 100,
+                      "due": "10/20/2026",
+                      "active": false,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "1.2 Cycle 2 Summative",
                       "earned": 85.0,
                       "possible": 100,
@@ -525561,7 +525570,7 @@
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-10-22T09:00"
+          "fetchedAt": "2026-10-22T16:30"
         }
       },
       "shortNames": {
