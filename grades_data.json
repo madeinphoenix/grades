@@ -243456,7 +243456,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-11-02T09:00"
+          "fetchedAt": "2026-11-02T16:30"
         }
       },
       "shortNames": {
@@ -552779,9 +552779,29 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 957.0,
-                  "possible": 1100.0,
+                  "earned": 1092.0,
+                  "possible": 1300.0,
                   "assignments": [
+                    {
+                      "name": "2.1.2 Unknown Words Bellwork (root, etym, context)",
+                      "earned": 75.0,
+                      "possible": 100,
+                      "due": "10/31/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 75"
+                    },
+                    {
+                      "name": "2.1.1 Cultural Values Analysis Written Response",
+                      "earned": 60.0,
+                      "possible": 100,
+                      "due": "10/30/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "original score: 60"
+                    },
                     {
                       "name": "2.1.4 In Media Res ET (Sailing From Troy)",
                       "earned": 85.0,
@@ -552789,7 +552809,8 @@
                       "due": "10/24/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "original score: 85"
                     },
                     {
                       "name": "2.1.3 Etymology Poster",
@@ -552798,7 +552819,8 @@
                       "due": "10/22/2026",
                       "active": true,
                       "missing": true,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "original score: M"
                     },
                     {
                       "name": "W.1 SEE Set Writing Corrections",
@@ -552919,11 +552941,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8326,
+              "weightedPct": 0.8193,
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-11-02T09:00"
+          "fetchedAt": "2026-11-02T16:30"
         }
       },
       "shortNames": {
