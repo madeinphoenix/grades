@@ -249896,7 +249896,7 @@
               "letterGrade": "A"
             }
           ],
-          "fetchedAt": "2026-11-13T09:00"
+          "fetchedAt": "2026-11-13T16:30"
         }
       },
       "shortNames": {
@@ -574479,7 +574479,7 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 636.8,
+                  "earned": 653.5,
                   "possible": 710.0,
                   "assignments": [
                     {
@@ -574497,7 +574497,7 @@
                       "possible": 0,
                       "due": "11/13/2026",
                       "active": true,
-                      "missing": true,
+                      "missing": false,
                       "incomplete": false
                     },
                     {
@@ -574511,21 +574511,23 @@
                     },
                     {
                       "name": "8.3B Formative Check",
-                      "earned": null,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "11/11/2026",
                       "active": true,
-                      "missing": true,
-                      "incomplete": false
+                      "missing": false,
+                      "incomplete": false,
+                      "note": "7 replaced by retake"
                     },
                     {
                       "name": "8.3A Formative Check",
-                      "earned": 5.0,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "11/10/2026",
                       "active": true,
                       "missing": false,
-                      "incomplete": false
+                      "incomplete": false,
+                      "note": "5 replaced by 2nd retake"
                     },
                     {
                       "name": "8.2 Formative Check",
@@ -574637,13 +574639,13 @@
                     },
                     {
                       "name": "6.2 Formative Check",
-                      "earned": 8.3,
+                      "earned": 10.0,
                       "possible": 10,
                       "due": "10/23/2026",
                       "active": true,
                       "missing": false,
                       "incomplete": false,
-                      "note": "6 replaced by formative assessment"
+                      "note": "6 replaced by retake"
                     },
                     {
                       "name": "6.2 HMH Practice",
@@ -575067,7 +575069,7 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8819,
+              "weightedPct": 0.8924,
               "letterGrade": "B"
             },
             {
@@ -576325,12 +576327,21 @@
                 {
                   "name": "Assessment (Summative)",
                   "weight": 50.0,
-                  "earned": 632.0,
-                  "possible": 800.0,
+                  "earned": 734.0,
+                  "possible": 900.0,
                   "assignments": [
                     {
+                      "name": "2.1 Q2 Cycle 1 Summative (Promethius)",
+                      "earned": 86.0,
+                      "possible": 100,
+                      "due": "11/11/2026",
+                      "active": true,
+                      "missing": false,
+                      "incomplete": false
+                    },
+                    {
                       "name": "2.1 Q2 Cycle 1 Summative Check (Icarus)",
-                      "earned": 70.0,
+                      "earned": 86.0,
                       "possible": 100,
                       "due": "11/04/2026",
                       "active": true,
@@ -576427,12 +576438,12 @@
                 {
                   "name": "Assignment (Formative)",
                   "weight": 40.0,
-                  "earned": 1172.0,
+                  "earned": 1216.0,
                   "possible": 1300.0,
                   "assignments": [
                     {
                       "name": "2.1.2 Unknown Words Bellwork (root, etym, context)",
-                      "earned": 75.0,
+                      "earned": 86.0,
                       "possible": 100,
                       "due": "10/31/2026",
                       "active": true,
@@ -576442,7 +576453,7 @@
                     },
                     {
                       "name": "2.1.1 Cultural Values Analysis Written Response",
-                      "earned": 70.0,
+                      "earned": 86.0,
                       "possible": 100,
                       "due": "10/30/2026",
                       "active": true,
@@ -576452,7 +576463,7 @@
                     },
                     {
                       "name": "2.1.4 In Media Res ET (Sailing From Troy)",
-                      "earned": 85.0,
+                      "earned": 86.0,
                       "possible": 100,
                       "due": "10/24/2026",
                       "active": true,
@@ -576462,7 +576473,7 @@
                     },
                     {
                       "name": "2.1.3 Etymology Poster",
-                      "earned": 70.0,
+                      "earned": 86.0,
                       "possible": 100,
                       "due": "10/22/2026",
                       "active": true,
@@ -576589,11 +576600,11 @@
                   ]
                 }
               ],
-              "weightedPct": 0.8395,
+              "weightedPct": 0.8688,
               "letterGrade": "B"
             }
           ],
-          "fetchedAt": "2026-11-13T09:00"
+          "fetchedAt": "2026-11-13T16:30"
         }
       },
       "shortNames": {
